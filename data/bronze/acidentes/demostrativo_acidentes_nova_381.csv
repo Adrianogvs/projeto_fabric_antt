@@ -1,0 +1,1382 @@
+data;horario;n_da_ocorrencia;tipo_de_ocorrencia;km;trecho;sentido;tipo_de_acidente;automovel;bicicleta;caminhao;moto;onibus;outros;tracao_animal;transporte_de_cargas_especiais;trator_maquinas;utilitarios;ilesos;levemente_feridos;moderadamente_feridos;gravemente_feridos;mortos
+"02/07/2025";"12:27:00";"6";"Com vítima";"272,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"02/07/2025";"16:31:00";"7";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"04/07/2025";"07:57:00";"1";"Sem vítima";"360,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/07/2025";"12:12:00";"17";"Com vítima";"356,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"05/07/2025";"00:00:00";"17";"Sem vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/07/2025";"08:26:00";"6";"Sem vítima";"158,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"06/07/2025";"12:20:00";"20";"Com vítima";"216,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"07/07/2025";"00:00:00";"3";"Com vítima";"354,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"07/07/2025";"11:38:00";"22";"Com vítima";"241,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/07/2025";"12:17:00";"23";"Com vítima";"289,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"07/07/2025";"14:53:00";"26";"Com vítima";"292,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"08/07/2025";"13:12:00";"28";"Com vítima";"410,000";"BR-381/MG";"Decrescente";"Engavetamento";4;0;1;0;0;1;0;0;0;0;0;1;0;0;0
+"09/07/2025";"11:10:00";"16";"Sem vítima";"256,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/07/2025";"07:26:00";"1";"Com vítima";"340,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"10/07/2025";"16:17:00";"47";"Com vítima";"342,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"11/07/2025";"00:00:00";"1";"Sem vítima";"418,600";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/07/2025";"08:00:00";"4";"Sem vítima";"303,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/07/2025";"08:46:00";"7";"Sem vítima";"360,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/07/2025";"00:00:00";"5";"Sem vítima";"178,000";"BR-381/MG";"Decrescente";"Engavetamento";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"12/07/2025";"12:25:00";"27";"Sem vítima";"242,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;0;0;0;0
+"12/07/2025";"13:45:00";"29";"Sem vítima";"371,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/07/2025";"15:38:00";"32";"Sem vítima";"308,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/07/2025";"16:17:00";"15";"Sem vítima";"218,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/07/2025";"09:21:00";"5";"Sem vítima";"292,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"15/07/2025";"08:12:00";"2";"Sem vítima";"305,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/07/2025";"09:05:00";"3";"Sem vítima";"305,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/07/2025";"11:02:00";"16";"Sem vítima";"406,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/07/2025";"13:18:00";"31";"Com vítima";"406,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"15/07/2025";"13:23:00";"33";"Com vítima";"260,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;3;0;0;0
+"17/07/2025";"00:00:00";"41";"Com vítima";"353,000";"BR-381/MG";"Decrescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"17/07/2025";"15:35:00";"35";"Com vítima";"397,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"18/07/2025";"15:28:00";"21";"Sem vítima";"240,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/07/2025";"16:55:00";"28";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/07/2025";"12:27:00";"17";"Sem vítima";"199,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/07/2025";"16:50:00";"36";"Com vítima";"374,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"20/07/2025";"12:24:00";"17";"Sem vítima";"266,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/07/2025";"13:58:00";"21";"Com vítima";"380,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"20/07/2025";"15:33:00";"33";"Com vítima";"414,500";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"20/07/2025";"20:07:00";"37";"Com vítima";"290,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"21/07/2025";"12:19:00";"2";"Com vítima";"317,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"23/07/2025";"08:45:00";"12";"Com vítima";"160,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;0;2;0
+"23/07/2025";"13:59:00";"40";"Sem vítima";"252,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/07/2025";"18:35:00";"65";"Com vítima";"246,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"25/07/2025";"05:36:00";"10";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"25/07/2025";"12:35:00";"41";"Com vítima";"416,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"25/07/2025";"18:29:00";"62";"Sem vítima";"277,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/07/2025";"22:43:00";"89";"Sem vítima";"255,400";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/07/2025";"00:26:00";"4";"Sem vítima";"416,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/07/2025";"00:35:00";"5";"Sem vítima";"308,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/07/2025";"02:55:00";"9";"Sem vítima";"356,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/07/2025";"03:58:00";"13";"Com vítima";"246,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;1;0
+"26/07/2025";"07:43:00";"19";"Com vítima";"226,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"26/07/2025";"08:11:00";"23";"Sem vítima";"371,000";"BR-381/MG";"Decrescente";"Choque";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"26/07/2025";"08:29:00";"26";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"26/07/2025";"10:54:00";"41";"Sem vítima";"350,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/07/2025";"12:03:00";"46";"Com vítima";"352,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"26/07/2025";"12:18:00";"48";"Com vítima";"237,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"26/07/2025";"19:05:00";"73";"Com vítima";"350,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"27/07/2025";"01:26:00";"4";"Com vítima";"153,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"27/07/2025";"03:00:00";"7";"Sem vítima";"195,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/07/2025";"09:46:00";"25";"Sem vítima";"309,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"28/07/2025";"15:07:00";"54";"Sem vítima";"365,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/07/2025";"00:00:00";"46";"Com vítima";"199,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/07/2025";"05:32:00";"6";"Com vítima";"253,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"29/07/2025";"06:48:00";"8";"Sem vítima";"396,900";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/07/2025";"09:07:00";"16";"Sem vítima";"230,000";"BR-381/MG";"Crescente";"Engavetamento";0;0;4;0;0;0;0;0;0;0;0;0;0;0;0
+"29/07/2025";"11:14:00";"38";"Com vítima";"384,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/07/2025";"17:28:00";"55";"Com vítima";"251,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"30/07/2025";"12:48:00";"27";"Com vítima";"259,900";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"30/07/2025";"13:35:00";"36";"Sem vítima";"373,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/07/2025";"15:36:00";"43";"Sem vítima";"249,500";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"30/07/2025";"22:30:00";"68";"Com vítima";"353,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"30/07/2025";"23:05:00";"71";"Com vítima";"294,000";"BR-381/MG";"Decrescente";"Engavetamento";0;0;3;0;0;0;0;0;0;0;0;1;0;0;0
+"31/07/2025";"08:46:00";"23";"Sem vítima";"194,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/07/2025";"13:37:00";"51";"Com vítima";"292,000";"BR-381/MG";"Crescente";"Engavetamento";0;0;3;0;0;0;0;0;0;0;0;1;0;0;0
+"31/07/2025";"22:11:00";"79";"Sem vítima";"298,500";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/08/2025";"00:00:00";"74";"Com vítima";"232,000";"BR-381/MG";"Crescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"01/08/2025";"02:49:00";"11";"Sem vítima";"314,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/08/2025";"07:53:00";"21";"Com vítima";"235,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/08/2025";"11:29:00";"42";"Com vítima";"182,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;3;1;0;0
+"01/08/2025";"17:03:00";"71";"Com vítima";"216,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"02/08/2025";"05:16:00";"4";"Sem vítima";"303,000";"BR-381/MG";"Crescente";"Engavetamento";0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+"02/08/2025";"12:05:00";"47";"Sem vítima";"443,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/08/2025";"13:07:00";"49";"Com vítima";"241,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"02/08/2025";"16:41:00";"73";"Sem vítima";"303,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/08/2025";"18:23:00";"78";"Com vítima";"333,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"03/08/2025";"02:28:00";"6";"Sem vítima";"326,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/08/2025";"02:49:00";"9";"Sem vítima";"402,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"03/08/2025";"10:04:00";"19";"Sem vítima";"341,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/08/2025";"11:33:00";"25";"Com vítima";"284,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"03/08/2025";"13:14:00";"29";"Com vítima";"402,300";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"03/08/2025";"14:30:00";"36";"Com vítima";"434,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"04/08/2025";"00:44:00";"3";"Com vítima";"251,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"04/08/2025";"07:55:00";"15";"Com vítima";"391,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;1;0;0;0;0;0;0;1;0;0
+"04/08/2025";"11:06:00";"24";"Com vítima";"445,000";"BR-381/MG";"Crescente";"Engavetamento";1;0;2;0;0;0;0;0;0;0;0;1;1;0;0
+"04/08/2025";"16:09:00";"44";"Sem vítima";"308,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"05/08/2025";"03:46:00";"4";"Sem vítima";"264,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/08/2025";"12:06:00";"24";"Sem vítima";"353,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/08/2025";"14:16:00";"27";"Sem vítima";"156,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/08/2025";"15:03:00";"29";"Sem vítima";"188,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/08/2025";"16:52:00";"36";"Sem vítima";"234,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/08/2025";"17:50:00";"40";"Com vítima";"248,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"05/08/2025";"20:05:00";"47";"Sem vítima";"147,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"06/08/2025";"04:50:00";"8";"Sem vítima";"354,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/08/2025";"05:01:00";"9";"Sem vítima";"387,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
+"06/08/2025";"11:05:00";"28";"Sem vítima";"301,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/08/2025";"21:16:00";"70";"Sem vítima";"330,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"07/08/2025";"01:28:00";"5";"Com vítima";"247,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/08/2025";"02:30:00";"6";"Com vítima";"309,000";"BR-381/MG";"Decrescente";"Choque";0;0;0;0;0;1;0;0;0;0;0;2;0;0;0
+"07/08/2025";"08:48:00";"17";"Sem vítima";"227,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/08/2025";"11:58:00";"31";"Com vítima";"397,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/08/2025";"19:30:00";"60";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"08/08/2025";"06:51:00";"15";"Com vítima";"350,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;0;2;0;0
+"08/08/2025";"07:56:00";"19";"Sem vítima";"237,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"08/08/2025";"09:27:00";"27";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"08/08/2025";"15:36:00";"60";"Com vítima";"275,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;0;0;0;1
+"08/08/2025";"16:16:00";"63";"Sem vítima";"358,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/08/2025";"18:31:00";"75";"Sem vítima";"169,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/08/2025";"19:39:00";"79";"Sem vítima";"147,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/08/2025";"23:25:00";"89";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+"08/08/2025";"23:52:00";"91";"Com vítima";"288,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"09/08/2025";"04:57:00";"11";"Sem vítima";"401,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/08/2025";"06:40:00";"14";"Sem vítima";"332,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/08/2025";"07:33:00";"18";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/08/2025";"22:45:00";"73";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/08/2025";"11:48:00";"27";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/08/2025";"17:57:00";"49";"Sem vítima";"374,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"10/08/2025";"17:59:00";"50";"Sem vítima";"284,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/08/2025";"18:35:00";"53";"Com vítima";"211,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"10/08/2025";"23:07:00";"63";"Sem vítima";"356,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/08/2025";"02:37:00";"4";"Com vítima";"150,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;0;1;0;1;0;0;0;0;0;3;0;0;0
+"11/08/2025";"09:14:00";"12";"Sem vítima";"168,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"11/08/2025";"10:09:00";"16";"Sem vítima";"378,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/08/2025";"13:07:00";"27";"Sem vítima";"414,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"11/08/2025";"13:19:00";"28";"Com vítima";"352,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"11/08/2025";"14:58:00";"33";"Sem vítima";"238,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/08/2025";"17:06:00";"43";"Com vítima";"345,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"12/08/2025";"02:10:00";"4";"Sem vítima";"287,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/08/2025";"06:52:00";"12";"Com vítima";"345,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"12/08/2025";"14:30:00";"50";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/08/2025";"23:49:00";"84";"Com vítima";"184,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"13/08/2025";"05:23:00";"7";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/08/2025";"08:38:00";"16";"Com vítima";"283,000";"BR-381/MG";"Crescente";"Engavetamento";1;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"13/08/2025";"17:21:00";"54";"Sem vítima";"242,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/08/2025";"17:34:00";"58";"Sem vítima";"245,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/08/2025";"20:14:00";"70";"Com vítima";"397,500";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"13/08/2025";"22:19:00";"78";"Sem vítima";"203,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/08/2025";"02:18:00";"3";"Com vítima";"399,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+"14/08/2025";"04:40:00";"7";"Sem vítima";"371,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/08/2025";"15:06:00";"66";"Sem vítima";"254,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/08/2025";"18:48:00";"88";"Com vítima";"351,000";"BR-381/MG";"Decrescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;3;0;0;0
+"15/08/2025";"03:14:00";"4";"Sem vítima";"305,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/08/2025";"06:37:00";"5";"Sem vítima";"216,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/08/2025";"07:24:00";"8";"Sem vítima";"245,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/08/2025";"17:40:00";"41";"Sem vítima";"279,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/08/2025";"22:40:00";"61";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"16/08/2025";"06:11:00";"12";"Sem vítima";"385,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/08/2025";"15:31:00";"55";"Sem vítima";"375,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/08/2025";"15:53:00";"57";"Sem vítima";"434,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/08/2025";"18:44:00";"68";"Sem vítima";"339,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"16/08/2025";"19:47:00";"76";"Sem vítima";"259,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/08/2025";"21:32:00";"80";"Com vítima";"171,000";"BR-381/MG";"Crescente";"Colisão transversal";0;0;0;1;0;0;0;0;0;1;0;0;1;0;0
+"17/08/2025";"00:00:00";"1";"Sem vítima";"282,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/08/2025";"00:56:00";"4";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/08/2025";"03:07:00";"5";"Sem vítima";"399,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"17/08/2025";"03:27:00";"6";"Com vítima";"267,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"17/08/2025";"05:13:00";"8";"Sem vítima";"283,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/08/2025";"05:26:00";"9";"Sem vítima";"283,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/08/2025";"08:20:00";"16";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/08/2025";"11:07:00";"30";"Com vítima";"417,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"17/08/2025";"19:46:00";"64";"Com vítima";"182,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"17/08/2025";"20:59:00";"68";"Com vítima";"253,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"18/08/2025";"16:31:00";"48";"Com vítima";"251,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"18/08/2025";"17:19:00";"52";"Com vítima";"387,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"18/08/2025";"20:28:00";"54";"Sem vítima";"265,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/08/2025";"10:50:00";"27";"Sem vítima";"368,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/08/2025";"15:27:00";"43";"Sem vítima";"341,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/08/2025";"17:15:00";"53";"Com vítima";"439,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"20/08/2025";"18:11:00";"57";"Sem vítima";"236,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/08/2025";"00:00:00";"52";"Com vítima";"383,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"21/08/2025";"10:54:00";"18";"Sem vítima";"235,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"21/08/2025";"12:56:00";"23";"Com vítima";"250,300";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;0;1;0;0
+"21/08/2025";"16:33:00";"40";"Com vítima";"307,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;1;1;0
+"21/08/2025";"18:13:00";"46";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"21/08/2025";"23:28:00";"70";"Sem vítima";"248,000";"BR-381/MG";"Crescente";"Saída de pista";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/08/2025";"11:31:00";"30";"Sem vítima";"303,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"22/08/2025";"13:56:00";"40";"Sem vítima";"244,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"22/08/2025";"14:08:00";"42";"Sem vítima";"414,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"23/08/2025";"10:27:00";"27";"Com vítima";"363,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"23/08/2025";"16:44:00";"48";"Com vítima";"157,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"23/08/2025";"16:50:00";"49";"Com vítima";"159,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"23/08/2025";"19:15:00";"61";"Com vítima";"346,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"24/08/2025";"04:41:00";"7";"Sem vítima";"375,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/08/2025";"08:15:00";"14";"Com vítima";"401,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"24/08/2025";"08:41:00";"16";"Com vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;1;0;1;0;0;0
+"24/08/2025";"16:12:00";"53";"Com vítima";"277,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"24/08/2025";"16:20:00";"54";"Com vítima";"324,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"25/08/2025";"07:27:00";"5";"Sem vítima";"371,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/08/2025";"13:49:00";"32";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"25/08/2025";"20:16:00";"61";"Sem vítima";"301,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/08/2025";"04:11:00";"10";"Sem vítima";"396,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/08/2025";"06:14:00";"12";"Com vítima";"350,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"26/08/2025";"12:18:00";"33";"Sem vítima";"287,100";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/08/2025";"17:53:00";"56";"Com vítima";"370,000";"BR-381/MG";"Crescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;2;0;0
+"27/08/2025";"16:36:00";"59";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/08/2025";"17:51:00";"63";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;2;0;0;0;0;0;0;0;1;0;0;0
+"27/08/2025";"18:41:00";"68";"Com vítima";"362,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"28/08/2025";"08:10:00";"20";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/08/2025";"15:19:00";"61";"Com vítima";"186,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"28/08/2025";"15:39:00";"64";"Sem vítima";"420,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/08/2025";"00:16:00";"1";"Com vítima";"399,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"29/08/2025";"11:27:00";"38";"Com vítima";"153,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"29/08/2025";"18:07:00";"84";"Com vítima";"308,000";"BR-381/MG";"Decrescente";"Colisão transversal";2;0;0;0;0;0;0;0;0;0;0;4;0;0;0
+"29/08/2025";"18:43:00";"86";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/08/2025";"20:02:00";"94";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"29/08/2025";"23:04:00";"102";"Com vítima";"376,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"29/08/2025";"23:35:00";"105";"Com vítima";"216,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"30/08/2025";"00:00:00";"47";"Com vítima";"192,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"30/08/2025";"01:35:00";"6";"Sem vítima";"153,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"01:59:00";"8";"Com vítima";"245,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"30/08/2025";"02:10:00";"10";"Sem vítima";"360,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"02:42:00";"11";"Sem vítima";"314,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"02:55:00";"12";"Sem vítima";"169,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"13:26:00";"50";"Sem vítima";"157,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"13:49:00";"51";"Sem vítima";"253,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"15:17:00";"56";"Sem vítima";"372,800";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/08/2025";"18:14:00";"62";"Com vítima";"238,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;1;0;0
+"31/08/2025";"00:23:00";"1";"Com vítima";"369,800";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"31/08/2025";"03:07:00";"6";"Com vítima";"321,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"31/08/2025";"05:23:00";"10";"Sem vítima";"223,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"31/08/2025";"16:30:00";"57";"Sem vítima";"328,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/08/2025";"19:48:00";"75";"Sem vítima";"382,000";"BR-381/MG";"Crescente";"Atropelamento de animal";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"31/08/2025";"22:36:00";"88";"Sem vítima";"371,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"31/08/2025";"23:21:00";"89";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"00:46:00";"2";"Sem vítima";"352,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"03:57:00";"10";"Sem vítima";"150,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"06:26:00";"19";"Sem vítima";"417,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"07:40:00";"26";"Sem vítima";"197,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"09:00:00";"31";"Sem vítima";"251,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"10:04:00";"33";"Sem vítima";"252,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"01/09/2025";"15:05:00";"51";"Com vítima";"200,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+"01/09/2025";"19:13:00";"63";"Sem vítima";"240,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/09/2025";"11:49:00";"35";"Com vítima";"300,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"02/09/2025";"16:36:00";"59";"Com vítima";"248,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"02/09/2025";"23:55:00";"72";"Com vítima";"302,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"03/09/2025";"09:54:00";"25";"Com vítima";"192,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;2;0
+"03/09/2025";"16:16:00";"58";"Sem vítima";"376,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/09/2025";"18:55:00";"72";"Sem vítima";"243,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/09/2025";"21:16:00";"85";"Sem vítima";"388,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"04/09/2025";"09:25:00";"29";"Com vítima";"237,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"04/09/2025";"10:15:00";"35";"Sem vítima";"313,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/09/2025";"16:13:00";"69";"Com vítima";"147,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;2;0;0;0;0;0;0;0;1;0;0;0
+"04/09/2025";"17:56:00";"76";"Com vítima";"327,300";"BR-381/MG";"Crescente";"Colisão transversal";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"05/09/2025";"00:00:00";"68";"Sem vítima";"241,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/09/2025";"07:51:00";"19";"Com vítima";"161,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"05/09/2025";"15:02:00";"63";"Sem vítima";"300,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/09/2025";"15:48:00";"68";"Sem vítima";"241,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/09/2025";"16:27:00";"69";"Sem vítima";"395,000";"BR-381/MG";"Crescente";"Colisão traseira";3;0;3;0;0;0;0;0;0;0;0;0;0;0;0
+"05/09/2025";"16:30:00";"70";"Sem vítima";"400,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/09/2025";"19:03:00";"83";"Com vítima";"256,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/09/2025";"19:03:00";"83";"Com vítima";"256,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;2;0;0;0;0;0;0;0;2;0;0;0
+"05/09/2025";"19:49:00";"87";"Com vítima";"321,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/09/2025";"21:19:00";"91";"Com vítima";"344,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"06/09/2025";"14:23:00";"48";"Com vítima";"348,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/09/2025";"14:25:00";"49";"Com vítima";"349,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/09/2025";"14:25:00";"49";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/09/2025";"15:13:00";"55";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"06/09/2025";"19:34:00";"74";"Com vítima";"211,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"07/09/2025";"10:52:00";"43";"Sem vítima";"242,500";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/09/2025";"11:02:00";"46";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/09/2025";"13:16:00";"59";"Com vítima";"291,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/09/2025";"15:27:00";"77";"Com vítima";"351,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/09/2025";"15:39:00";"80";"Com vítima";"335,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"07/09/2025";"16:13:00";"83";"Sem vítima";"426,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/09/2025";"19:36:00";"110";"Com vítima";"414,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;4;0;0;0
+"08/09/2025";"01:42:00";"5";"Com vítima";"298,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;0;0;0;0;0;0;0;2;0;2;1;0;0
+"08/09/2025";"07:13:00";"15";"Com vítima";"250,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;1;0;0;0
+"08/09/2025";"15:00:00";"72";"Com vítima";"250,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"08/09/2025";"15:39:00";"75";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/09/2025";"16:01:00";"78";"Com vítima";"168,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;2;0;0;0;0;0;0;0;0;1;1;0
+"08/09/2025";"20:42:00";"98";"Com vítima";"214,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;1;0
+"08/09/2025";"20:43:00";"99";"Sem vítima";"251,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/09/2025";"14:41:00";"64";"Com vítima";"222,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/09/2025";"00:00:00";"2";"Sem vítima";"387,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"10/09/2025";"04:28:00";"8";"Com vítima";"396,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;1;0
+"10/09/2025";"10:10:00";"21";"Sem vítima";"235,000";"BR-381/MG";"Decrescente";"Engavetamento";1;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"10/09/2025";"11:10:00";"25";"Com vítima";"243,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"10/09/2025";"11:18:00";"28";"Sem vítima";"244,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"10/09/2025";"12:06:00";"32";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/09/2025";"12:57:00";"35";"Sem vítima";"247,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/09/2025";"20:55:00";"72";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"10/09/2025";"22:15:00";"77";"Com vítima";"410,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"10/09/2025";"23:50:00";"79";"Com vítima";"229,500";"BR-381/MG";"Decrescente";"Atropelamento de ciclista";0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"11/09/2025";"06:20:00";"6";"Com vítima";"391,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"11/09/2025";"07:11:00";"10";"Com vítima";"255,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"11/09/2025";"07:24:00";"12";"Com vítima";"156,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"11/09/2025";"08:51:00";"21";"Sem vítima";"255,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"11/09/2025";"12:38:00";"40";"Sem vítima";"420,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"11/09/2025";"14:32:00";"51";"Com vítima";"228,000";"BR-381/MG";"Decrescente";"Engavetamento";1;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"11/09/2025";"19:07:00";"79";"Sem vítima";"290,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/09/2025";"08:18:00";"23";"Sem vítima";"411,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/09/2025";"09:40:00";"30";"Sem vítima";"379,500";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/09/2025";"12:25:00";"51";"Com vítima";"314,500";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"12/09/2025";"18:33:00";"87";"Com vítima";"303,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"12/09/2025";"21:17:00";"103";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/09/2025";"07:32:00";"14";"Sem vítima";"406,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/09/2025";"17:24:00";"59";"Sem vítima";"422,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/09/2025";"18:13:00";"64";"Sem vítima";"379,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/09/2025";"19:12:00";"70";"Com vítima";"241,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"14/09/2025";"04:21:00";"7";"Sem vítima";"356,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"05:09:00";"8";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"14/09/2025";"05:17:00";"9";"Sem vítima";"360,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"08:32:00";"18";"Sem vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"09:05:00";"22";"Sem vítima";"209,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"15:56:00";"49";"Sem vítima";"214,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"16:51:00";"57";"Com vítima";"312,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"14/09/2025";"17:28:00";"59";"Sem vítima";"352,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"17:45:00";"61";"Com vítima";"234,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"14/09/2025";"20:47:00";"81";"Sem vítima";"258,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/09/2025";"21:21:00";"83";"Sem vítima";"253,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/09/2025";"05:32:00";"5";"Sem vítima";"423,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/09/2025";"13:07:00";"64";"Com vítima";"252,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"15/09/2025";"15:13:00";"73";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"16/09/2025";"05:13:00";"10";"Com vítima";"196,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/09/2025";"07:08:00";"19";"Com vítima";"246,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"16/09/2025";"08:59:00";"30";"Com vítima";"225,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"16/09/2025";"11:00:00";"41";"Sem vítima";"387,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"16/09/2025";"15:22:00";"63";"Com vítima";"373,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"16/09/2025";"16:09:00";"65";"Sem vítima";"207,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/09/2025";"20:10:00";"86";"Com vítima";"421,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"16/09/2025";"21:04:00";"92";"Sem vítima";"445,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/09/2025";"00:00:00";"64";"Com vítima";"396,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"17/09/2025";"16:54:00";"65";"Sem vítima";"391,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"17/09/2025";"17:36:00";"67";"Com vítima";"242,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"18/09/2025";"01:14:00";"2";"Com vítima";"242,500";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"18/09/2025";"16:12:00";"63";"Sem vítima";"257,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/09/2025";"17:07:00";"69";"Com vítima";"244,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"19/09/2025";"14:40:00";"76";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/09/2025";"16:18:00";"85";"Com vítima";"156,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"19/09/2025";"18:55:00";"107";"Com vítima";"244,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"19/09/2025";"23:12:00";"127";"Sem vítima";"403,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/09/2025";"00:58:00";"5";"Sem vítima";"347,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/09/2025";"19:31:00";"107";"Sem vítima";"418,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/09/2025";"22:13:00";"118";"Sem vítima";"420,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/09/2025";"23:01:00";"122";"Sem vítima";"148,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/09/2025";"00:00:00";"50";"Com vítima";"208,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"21/09/2025";"08:27:00";"20";"Sem vítima";"245,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/09/2025";"19:41:00";"70";"Com vítima";"147,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"22/09/2025";"03:11:00";"5";"Sem vítima";"420,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/09/2025";"05:20:00";"8";"Sem vítima";"303,130";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"22/09/2025";"09:20:00";"55";"Com vítima";"351,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"22/09/2025";"09:51:00";"61";"Com vítima";"174,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"22/09/2025";"15:47:00";"97";"Com vítima";"352,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;1;1;0;0;0;0;0;0;0;2;0;0;0
+"22/09/2025";"16:20:00";"99";"Com vítima";"352,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"22/09/2025";"16:54:00";"103";"Com vítima";"382,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;1;1;0;0;0;0;0;0;0;0;0;1;1
+"22/09/2025";"18:17:00";"109";"Sem vítima";"246,600";"BR-381/MG";"Decrescente";"Choque";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/09/2025";"19:49:00";"114";"Sem vítima";"214,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/09/2025";"20:12:00";"117";"Com vítima";"379,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"22/09/2025";"20:28:00";"120";"Sem vítima";"363,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/09/2025";"02:25:00";"3";"Sem vítima";"398,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"23/09/2025";"11:02:00";"71";"Sem vítima";"420,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"23/09/2025";"15:20:00";"102";"Com vítima";"224,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;0;1;0;0
+"23/09/2025";"20:11:00";"130";"Sem vítima";"449,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/09/2025";"23:15:00";"138";"Sem vítima";"163,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"24/09/2025";"01:34:00";"3";"Sem vítima";"260,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+"24/09/2025";"07:38:00";"42";"Com vítima";"217,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;2;0;0;0;0;0;0;0;0;2;0;0;0
+"24/09/2025";"13:04:00";"92";"Com vítima";"157,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"24/09/2025";"21:29:00";"149";"Sem vítima";"153,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/09/2025";"07:39:00";"39";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"25/09/2025";"10:44:00";"69";"Com vítima";"394,500";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"25/09/2025";"22:10:00";"114";"Com vítima";"343,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"26/09/2025";"17:19:00";"77";"Com vítima";"393,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;0;1;0;0;0;0;0;0;1;0;0;0
+"26/09/2025";"17:31:00";"79";"Com vítima";"351,000";"BR-381/MG";"Crescente";"Engavetamento";1;0;0;1;1;0;0;0;0;0;0;1;0;0;0
+"27/09/2025";"00:00:00";"3";"Sem vítima";"242,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/09/2025";"06:52:00";"21";"Sem vítima";"323,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/09/2025";"07:18:00";"29";"Com vítima";"322,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"27/09/2025";"11:25:00";"67";"Sem vítima";"210,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/09/2025";"12:23:00";"73";"Sem vítima";"242,300";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/09/2025";"14:43:00";"86";"Com vítima";"367,500";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+"27/09/2025";"15:57:00";"97";"Com vítima";"352,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"27/09/2025";"17:17:00";"109";"Sem vítima";"350,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/09/2025";"18:11:00";"115";"Com vítima";"245,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"27/09/2025";"18:45:00";"120";"Com vítima";"273,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"27/09/2025";"19:49:00";"125";"Sem vítima";"322,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/09/2025";"00:37:00";"3";"Sem vítima";"243,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/09/2025";"15:18:00";"66";"Sem vítima";"416,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/09/2025";"15:20:00";"67";"Sem vítima";"321,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/09/2025";"16:51:00";"78";"Sem vítima";"387,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"28/09/2025";"18:27:00";"82";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"29/09/2025";"00:00:00";"68";"Com vítima";"248,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;1;0;0;1;0;0;0;0;0;0;0;0;0;0
+"29/09/2025";"02:35:00";"8";"Com vítima";"204,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;1;0;0;0;0;0;0;4;2;0;0
+"29/09/2025";"06:06:00";"13";"Sem vítima";"421,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/09/2025";"07:01:00";"33";"Sem vítima";"244,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/09/2025";"08:07:00";"39";"Sem vítima";"243,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/09/2025";"09:24:00";"47";"Sem vítima";"243,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"30/09/2025";"00:39:00";"2";"Sem vítima";"398,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/09/2025";"04:27:00";"7";"Sem vítima";"379,900";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/09/2025";"06:39:00";"12";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"30/09/2025";"09:54:00";"53";"Com vítima";"401,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"30/09/2025";"15:46:00";"76";"Com vítima";"248,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/10/2025";"08:04:00";"37";"Com vítima";"174,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/10/2025";"11:30:00";"79";"Com vítima";"246,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"02/10/2025";"06:30:00";"19";"Sem vítima";"258,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/10/2025";"07:38:00";"34";"Sem vítima";"390,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/10/2025";"08:37:00";"65";"Sem vítima";"241,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/10/2025";"19:39:00";"146";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"02/10/2025";"23:53:00";"157";"Sem vítima";"322,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"00:00:00";"48";"Com vítima";"227,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"03/10/2025";"02:49:00";"8";"Sem vítima";"414,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"03:43:00";"12";"Com vítima";"156,000";"BR-381/MG";"Decrescente";"Atropelamento de ciclista";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"05:12:00";"17";"Sem vítima";"267,000";"BR-381/MG";"Crescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"05:53:00";"20";"Sem vítima";"322,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"06:46:00";"32";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"06:49:00";"34";"Com vítima";"256,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"03/10/2025";"15:11:00";"97";"Com vítima";"240,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;1;0;0;0;0;0;0;0;0;3;0;0;0
+"03/10/2025";"16:20:00";"103";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"16:31:00";"104";"Sem vítima";"255,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"16:47:00";"91";"Com vítima";"282,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"03/10/2025";"16:47:00";"108";"Sem vítima";"251,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/10/2025";"19:01:00";"120";"Com vítima";"272,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"04/10/2025";"00:00:00";"7";"Com vítima";"362,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;1;0;0;0;0;0;0;0;1;1;0
+"04/10/2025";"00:00:00";"15";"Sem vítima";"247,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"04/10/2025";"07:13:00";"13";"Sem vítima";"355,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/10/2025";"07:45:00";"16";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/10/2025";"10:06:00";"35";"Com vítima";"425,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;2;0;0
+"04/10/2025";"12:20:00";"43";"Sem vítima";"418,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/10/2025";"14:43:00";"56";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/10/2025";"15:14:00";"64";"Com vítima";"216,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"04/10/2025";"21:37:00";"81";"Sem vítima";"302,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/10/2025";"07:36:00";"18";"Sem vítima";"369,600";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/10/2025";"07:41:00";"20";"Sem vítima";"254,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/10/2025";"12:49:00";"59";"Com vítima";"346,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/10/2025";"13:45:00";"65";"Com vítima";"242,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/10/2025";"15:30:00";"81";"Com vítima";"360,700";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"05/10/2025";"18:55:00";"106";"Com vítima";"422,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;1;0
+"06/10/2025";"14:22:00";"82";"Com vítima";"350,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"06/10/2025";"16:11:00";"91";"Com vítima";"209,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/10/2025";"23:21:00";"138";"Sem vítima";"267,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"00:00:00";"94";"Sem vítima";"217,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"00:03:00";"1";"Sem vítima";"297,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"04:11:00";"9";"Com vítima";"155,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"07/10/2025";"07:51:00";"41";"Sem vítima";"352,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"08:00:00";"44";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"14:12:00";"79";"Sem vítima";"356,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"14:37:00";"82";"Sem vítima";"277,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/10/2025";"17:46:00";"98";"Com vítima";"243,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;0;1;1;0;0;0;0;0;0;1;0;0;0
+"07/10/2025";"18:30:00";"108";"Com vítima";"397,000";"BR-381/MG";"Decrescente";"Engavetamento";0;0;3;0;0;0;0;0;0;0;0;0;0;1;2
+"08/10/2025";"00:00:00";"11";"Sem vítima";"395,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"08/10/2025";"06:05:00";"9";"Com vítima";"401,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"08/10/2025";"10:50:00";"57";"Sem vítima";"290,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/10/2025";"11:02:00";"60";"Sem vítima";"290,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/10/2025";"12:29:00";"66";"Sem vítima";"238,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"08/10/2025";"14:47:00";"74";"Com vítima";"411,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;1;0;1;0
+"08/10/2025";"15:16:00";"76";"Sem vítima";"231,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/10/2025";"21:07:00";"102";"Sem vítima";"265,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/10/2025";"00:25:00";"2";"Com vítima";"245,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"09/10/2025";"06:55:00";"24";"Com vítima";"401,100";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"09/10/2025";"07:02:00";"30";"Sem vítima";"414,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"09/10/2025";"07:38:00";"38";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/10/2025";"17:50:00";"124";"Com vítima";"341,000";"BR-381/MG";"Decrescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"09/10/2025";"20:25:00";"133";"Com vítima";"273,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;1;0;0;0;0;0;0;0;0;0;0;1
+"10/10/2025";"03:57:00";"7";"Com vítima";"392,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;1;1;0;0
+"10/10/2025";"04:15:00";"8";"Com vítima";"344,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"10/10/2025";"06:49:00";"22";"Com vítima";"250,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/10/2025";"12:25:00";"83";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"10/10/2025";"12:30:00";"84";"Sem vítima";"292,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/10/2025";"13:37:00";"95";"Com vítima";"399,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"10/10/2025";"13:40:00";"97";"Sem vítima";"250,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/10/2025";"16:29:00";"107";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"10/10/2025";"16:42:00";"111";"Sem vítima";"383,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/10/2025";"16:56:00";"114";"Sem vítima";"209,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/10/2025";"22:36:00";"145";"Com vítima";"358,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+"11/10/2025";"00:00:00";"23";"Com vítima";"374,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"11/10/2025";"09:36:00";"50";"Sem vítima";"411,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/10/2025";"13:08:00";"77";"Sem vítima";"395,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/10/2025";"13:58:00";"83";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"11/10/2025";"16:28:00";"92";"Com vítima";"395,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"11/10/2025";"17:47:00";"99";"Com vítima";"423,500";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"12/10/2025";"00:00:00";"17";"Sem vítima";"283,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/10/2025";"00:00:00";"53";"Sem vítima";"361,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/10/2025";"14:00:00";"46";"Sem vítima";"380,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/10/2025";"21:17:00";"89";"Com vítima";"318,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"13/10/2025";"09:26:00";"59";"Sem vítima";"437,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"13/10/2025";"11:32:00";"84";"Sem vítima";"283,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/10/2025";"15:30:00";"118";"Sem vítima";"302,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/10/2025";"19:12:00";"143";"Com vítima";"246,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"13/10/2025";"19:38:00";"145";"Com vítima";"358,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"13/10/2025";"23:17:00";"153";"Com vítima";"398,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;1;0
+"13/10/2025";"23:49:00";"159";"Com vítima";"259,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"14/10/2025";"04:13:00";"10";"Sem vítima";"226,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/10/2025";"05:10:00";"11";"Com vítima";"355,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;1;0;2;0;0;0
+"14/10/2025";"06:20:00";"21";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Carreta deu L";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/10/2025";"07:43:00";"38";"Sem vítima";"422,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/10/2025";"08:16:00";"43";"Com vítima";"360,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;4;0;0
+"14/10/2025";"08:27:00";"45";"Sem vítima";"208,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/10/2025";"14:09:00";"102";"Sem vítima";"389,000";"BR-381/MG";"Decrescente";"Carreta deu L";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/10/2025";"18:25:00";"126";"Com vítima";"169,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;2;0;0
+"14/10/2025";"22:42:00";"145";"Sem vítima";"346,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/10/2025";"00:00:00";"86";"Com vítima";"251,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;3;0;0;0;0;0;0;0;3;0;0;0
+"15/10/2025";"00:00:00";"124";"Com vítima";"253,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"15/10/2025";"04:12:00";"11";"Sem vítima";"414,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/10/2025";"05:29:00";"16";"Sem vítima";"280,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"15/10/2025";"05:38:00";"18";"Sem vítima";"157,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/10/2025";"11:56:00";"73";"Sem vítima";"245,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"15/10/2025";"16:14:00";"108";"Sem vítima";"290,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/10/2025";"17:12:00";"113";"Com vítima";"258,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"15/10/2025";"17:57:00";"120";"Com vítima";"401,500";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"15/10/2025";"19:38:00";"132";"Com vítima";"418,000";"BR-381/MG";"Crescente";"Engavetamento";1;0;3;0;0;0;0;0;0;0;0;1;2;0;0
+"16/10/2025";"10:16:00";"67";"Com vítima";"224,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"16/10/2025";"13:15:00";"85";"Sem vítima";"161,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/10/2025";"16:10:00";"104";"Sem vítima";"348,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/10/2025";"09:04:00";"50";"Com vítima";"363,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"17/10/2025";"09:40:00";"61";"Com vítima";"315,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"17/10/2025";"16:16:00";"105";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"17/10/2025";"18:38:00";"116";"Com vítima";"222,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/10/2025";"19:23:00";"124";"Com vítima";"414,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"17/10/2025";"21:13:00";"134";"Sem vítima";"317,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+"18/10/2025";"13:29:00";"78";"Com vítima";"366,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+"18/10/2025";"15:50:00";"101";"Sem vítima";"417,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"18/10/2025";"16:41:00";"115";"Sem vítima";"359,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/10/2025";"18:45:00";"133";"Sem vítima";"372,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/10/2025";"21:27:00";"150";"Sem vítima";"234,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/10/2025";"22:05:00";"155";"Sem vítima";"270,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"00:00:00";"59";"Sem vítima";"370,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"00:38:00";"5";"Sem vítima";"347,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"12:05:00";"57";"Com vítima";"424,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;1;1;0;0;0;0;0;0;0;1;0;0;0
+"19/10/2025";"16:03:00";"77";"Com vítima";"322,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"19/10/2025";"16:07:00";"80";"Sem vítima";"242,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"19:14:00";"98";"Sem vítima";"222,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"20:16:00";"102";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Choque";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"20:54:00";"104";"Sem vítima";"217,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/10/2025";"21:16:00";"96";"Com vítima";"195,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"20/10/2025";"00:00:00";"71";"Com vítima";"160,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"20/10/2025";"00:39:00";"1";"Com vítima";"391,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";1;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+"20/10/2025";"07:44:00";"30";"Sem vítima";"157,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/10/2025";"08:01:00";"33";"Sem vítima";"245,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/10/2025";"14:04:00";"72";"Sem vítima";"242,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/10/2025";"15:36:00";"84";"Com vítima";"238,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"20/10/2025";"18:01:00";"99";"Com vítima";"248,000";"BR-381/MG";"Crescente";"Engavetamento";1;0;2;0;0;0;0;0;0;0;0;7;0;0;0
+"20/10/2025";"18:33:00";"103";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"21/10/2025";"05:48:00";"3";"Sem vítima";"421,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"22/10/2025";"02:40:00";"7";"Sem vítima";"308,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/10/2025";"05:50:00";"21";"Com vítima";"328,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"22/10/2025";"06:02:00";"22";"Sem vítima";"328,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/10/2025";"00:00:00";"83";"Sem vítima";"341,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/10/2025";"15:53:00";"97";"Sem vítima";"404,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"23/10/2025";"17:19:00";"107";"Sem vítima";"250,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/10/2025";"19:13:00";"115";"Sem vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/10/2025";"00:00:00";"93";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"24/10/2025";"12:24:00";"90";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/10/2025";"14:51:00";"104";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"24/10/2025";"17:31:00";"123";"Sem vítima";"375,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/10/2025";"19:26:00";"129";"Sem vítima";"290,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"25/10/2025";"02:44:00";"7";"Com vítima";"370,000";"BR-381/MG";"Decrescente";"Engavetamento";1;0;2;0;0;0;0;0;0;0;0;2;1;0;0
+"25/10/2025";"09:36:00";"38";"Com vítima";"248,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"25/10/2025";"13:28:00";"67";"Com vítima";"237,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"25/10/2025";"14:24:00";"69";"Com vítima";"360,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;1;0;0;0;0;0;0;0;0;1
+"26/10/2025";"06:51:00";"17";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/10/2025";"14:53:00";"63";"Com vítima";"312,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"26/10/2025";"15:56:00";"71";"Com vítima";"245,000";"BR-381/MG";"Decrescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/10/2025";"16:34:00";"78";"Sem vítima";"412,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"26/10/2025";"16:37:00";"80";"Sem vítima";"412,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/10/2025";"17:48:00";"88";"Com vítima";"334,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"26/10/2025";"19:06:00";"93";"Sem vítima";"354,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/10/2025";"19:16:00";"95";"Com vítima";"415,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;2;1;0
+"26/10/2025";"22:23:00";"115";"Com vítima";"347,800";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"27/10/2025";"00:00:00";"33";"Com vítima";"403,000";"BR-381/MG";"Decrescente";"Choque";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"27/10/2025";"08:12:00";"45";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;1;0;0
+"27/10/2025";"15:57:00";"97";"Sem vítima";"362,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"27/10/2025";"16:48:00";"103";"Sem vítima";"373,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"27/10/2025";"21:57:00";"122";"Com vítima";"162,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;1;0;0
+"28/10/2025";"16:44:00";"99";"Com vítima";"175,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"28/10/2025";"16:51:00";"100";"Com vítima";"414,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"28/10/2025";"22:05:00";"120";"Com vítima";"165,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"29/10/2025";"09:23:00";"67";"Com vítima";"199,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/10/2025";"11:34:00";"81";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/10/2025";"15:07:00";"106";"Com vítima";"405,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/10/2025";"17:02:00";"115";"Com vítima";"371,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"30/10/2025";"09:49:00";"73";"Com vítima";"250,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;1;0;0;0;0;0;0;0;0;0;0;1
+"30/10/2025";"16:51:00";"137";"Com vítima";"357,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"30/10/2025";"17:33:00";"145";"Com vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"30/10/2025";"18:21:00";"148";"Com vítima";"252,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"30/10/2025";"21:01:00";"159";"Sem vítima";"175,000";"BR-381/MG";"Decrescente";"Choque";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"31/10/2025";"00:00:00";"54";"Sem vítima";"404,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"31/10/2025";"01:16:00";"3";"Sem vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"31/10/2025";"02:10:00";"7";"Com vítima";"251,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"31/10/2025";"10:49:00";"65";"Sem vítima";"307,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/10/2025";"13:54:00";"92";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/10/2025";"19:15:00";"120";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";3;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/11/2025";"09:15:00";"31";"Com vítima";"344,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01/11/2025";"11:33:00";"45";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"01/11/2025";"15:59:00";"62";"Sem vítima";"342,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/11/2025";"19:49:00";"85";"Com vítima";"339,200";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"02/11/2025";"01:04:00";"6";"Sem vítima";"267,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/11/2025";"06:34:00";"17";"Sem vítima";"372,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/11/2025";"10:54:00";"48";"Sem vítima";"422,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/11/2025";"17:55:00";"92";"Sem vítima";"407,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"02/11/2025";"22:14:00";"120";"Sem vítima";"205,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"02/11/2025";"23:25:00";"125";"Com vítima";"217,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;1;0;0;1;0;0
+"03/11/2025";"04:37:00";"7";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/11/2025";"05:20:00";"10";"Sem vítima";"415,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/11/2025";"12:27:00";"84";"Sem vítima";"368,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/11/2025";"12:38:00";"85";"Sem vítima";"420,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/11/2025";"12:38:00";"86";"Sem vítima";"419,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/11/2025";"17:50:00";"128";"Com vítima";"341,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;1;0
+"03/11/2025";"20:36:00";"138";"Sem vítima";"235,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/11/2025";"05:08:00";"16";"Com vítima";"262,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"04/11/2025";"07:16:00";"48";"Sem vítima";"247,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"04/11/2025";"15:59:00";"105";"Com vítima";"235,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"04/11/2025";"17:35:00";"113";"Sem vítima";"265,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/11/2025";"19:08:00";"119";"Com vítima";"285,000";"BR-381/MG";"Crescente";"Atropelamento de animal";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/11/2025";"23:27:00";"137";"Sem vítima";"393,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"06/11/2025";"00:00:00";"145";"Com vítima";"162,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"06/11/2025";"08:28:00";"60";"Com vítima";"393,000";"BR-381/MG";"Decrescente";"Choque";1;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"06/11/2025";"11:43:00";"80";"Sem vítima";"393,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"06/11/2025";"13:20:00";"95";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"06/11/2025";"20:57:00";"143";"Sem vítima";"392,000";"BR-381/MG";"Crescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/11/2025";"01:30:00";"5";"Sem vítima";"242,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/11/2025";"03:56:00";"12";"Sem vítima";"372,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/11/2025";"08:59:00";"51";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"07/11/2025";"13:39:00";"81";"Sem vítima";"205,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/11/2025";"13:41:00";"82";"Com vítima";"225,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;1;0;1;0
+"07/11/2025";"19:11:00";"122";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"07/11/2025";"20:16:00";"129";"Sem vítima";"216,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/11/2025";"23:37:00";"148";"Com vítima";"148,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"08/11/2025";"04:41:00";"14";"Com vítima";"355,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;1
+"08/11/2025";"06:14:00";"12";"Com vítima";"327,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"08/11/2025";"07:42:00";"27";"Sem vítima";"344,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/11/2025";"13:36:00";"51";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/11/2025";"00:50:00";"2";"Com vítima";"356,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"09/11/2025";"07:42:00";"24";"Sem vítima";"360,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/11/2025";"12:27:00";"50";"Sem vítima";"325,000";"BR-381/MG";"Decrescente";"Engavetamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/11/2025";"18:31:00";"79";"Sem vítima";"345,400";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/11/2025";"19:14:00";"28";"Com vítima";"339,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"09/11/2025";"20:28:00";"90";"Sem vítima";"194,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/11/2025";"07:32:00";"50";"Com vítima";"247,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;0;1;1;0;0;0;0;0;0;1;0;0;0
+"10/11/2025";"10:59:00";"85";"Com vítima";"284,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"10/11/2025";"18:53:00";"152";"Com vítima";"281,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/11/2025";"21:10:00";"164";"Sem vítima";"208,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/11/2025";"22:06:00";"168";"Com vítima";"342,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"11/11/2025";"00:00:00";"95";"Sem vítima";"286,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"11/11/2025";"02:51:00";"4";"Sem vítima";"271,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/11/2025";"14:49:00";"98";"Com vítima";"159,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"11/11/2025";"20:35:00";"128";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;1;0;0;0;0;0;0;1;0;0;0
+"11/11/2025";"22:30:00";"133";"Sem vítima";"327,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/11/2025";"00:00:00";"14";"Sem vítima";"306,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"12/11/2025";"00:00:00";"22";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/11/2025";"00:00:00";"98";"Com vítima";"327,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"12/11/2025";"02:00:00";"7";"Sem vítima";"366,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"13/11/2025";"00:00:00";"69";"Com vítima";"373,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"13/11/2025";"07:05:00";"36";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;0;1;0;0;0;0;0;0;9;0;0;0
+"13/11/2025";"08:12:00";"44";"Com vítima";"251,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"13/11/2025";"10:28:00";"63";"Com vítima";"375,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;3;0;0;0
+"13/11/2025";"11:31:00";"71";"Sem vítima";"375,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+"13/11/2025";"19:07:00";"116";"Com vítima";"245,200";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"13/11/2025";"19:21:00";"119";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"14/11/2025";"06:24:00";"25";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/11/2025";"07:58:00";"58";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"14/11/2025";"08:31:00";"66";"Sem vítima";"283,008";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/11/2025";"17:42:00";"137";"Com vítima";"245,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"14/11/2025";"18:31:00";"147";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/11/2025";"19:33:00";"170";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;1;0;0;1;0;0
+"14/11/2025";"19:49:00";"160";"Sem vítima";"250,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/11/2025";"23:49:00";"182";"Sem vítima";"434,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/11/2025";"00:27:00";"5";"Sem vítima";"232,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/11/2025";"07:05:00";"34";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"15/11/2025";"07:44:00";"39";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/11/2025";"17:28:00";"103";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/11/2025";"04:50:00";"7";"Com vítima";"370,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;2;0;0
+"16/11/2025";"16:20:00";"69";"Com vítima";"401,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"16/11/2025";"18:35:00";"97";"Sem vítima";"359,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/11/2025";"18:37:00";"98";"Com vítima";"379,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"16/11/2025";"18:53:00";"99";"Sem vítima";"331,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/11/2025";"20:17:00";"111";"Sem vítima";"246,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/11/2025";"00:00:00";"45";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"17/11/2025";"00:00:00";"84";"Com vítima";"349,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"17/11/2025";"07:37:00";"42";"Sem vítima";"360,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/11/2025";"11:35:00";"73";"Sem vítima";"361,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/11/2025";"14:01:00";"88";"Sem vítima";"359,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/11/2025";"16:19:00";"101";"Com vítima";"290,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;3;0;1;0
+"17/11/2025";"16:32:00";"103";"Sem vítima";"238,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"17/11/2025";"17:25:00";"108";"Sem vítima";"326,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;3;1;0;0;0;0;0;0;0;0;0;0;0
+"18/11/2025";"00:54:00";"3";"Com vítima";"267,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"18/11/2025";"06:14:00";"22";"Sem vítima";"210,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/11/2025";"13:48:00";"89";"Sem vítima";"233,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/11/2025";"14:47:00";"95";"Sem vítima";"415,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"18/11/2025";"17:29:00";"120";"Sem vítima";"246,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"19/11/2025";"00:00:00";"120";"Sem vítima";"322,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/11/2025";"06:37:00";"27";"Sem vítima";"438,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"19/11/2025";"07:27:00";"40";"Com vítima";"213,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"19/11/2025";"17:06:00";"134";"Sem vítima";"251,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/11/2025";"20:10:00";"154";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;1;0;1;1;0;0
+"20/11/2025";"00:00:00";"98";"Com vítima";"170,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"20/11/2025";"00:00:00";"99";"Com vítima";"251,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"20/11/2025";"01:33:00";"4";"Com vítima";"394,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"20/11/2025";"09:45:00";"39";"Sem vítima";"258,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/11/2025";"13:20:00";"60";"Sem vítima";"248,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/11/2025";"14:19:00";"68";"Com vítima";"265,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"20/11/2025";"19:41:00";"102";"Com vítima";"384,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"20/11/2025";"21:07:00";"107";"Com vítima";"232,000";"BR-381/MG";"Crescente";"Colisão transversal";1;0;1;0;0;0;0;0;0;0;0;0;1;3;1
+"21/11/2025";"02:07:00";"8";"Sem vítima";"380,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"21/11/2025";"05:45:00";"18";"Com vítima";"365,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"21/11/2025";"09:52:00";"77";"Com vítima";"259,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"21/11/2025";"16:07:00";"110";"Com vítima";"290,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;1;0
+"21/11/2025";"23:52:00";"143";"Sem vítima";"303,000";"BR-381/MG";"Crescente";"Colisão transversal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/11/2025";"00:30:00";"5";"Sem vítima";"288,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/11/2025";"01:48:00";"9";"Sem vítima";"282,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/11/2025";"07:34:00";"30";"Com vítima";"311,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"22/11/2025";"19:47:00";"113";"Com vítima";"318,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"22/11/2025";"22:11:00";"121";"Sem vítima";"390,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"23/11/2025";"00:00:00";"118";"Sem vítima";"304,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"03:12:00";"5";"Sem vítima";"220,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"08:10:00";"30";"Sem vítima";"350,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"11:41:00";"54";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"13:28:00";"61";"Sem vítima";"418,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"13:46:00";"62";"Sem vítima";"426,900";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"13:53:00";"65";"Com vítima";"362,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"23/11/2025";"13:54:00";"66";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"15:04:00";"73";"Sem vítima";"327,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"16:42:00";"90";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"17:00:00";"94";"Sem vítima";"370,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/11/2025";"18:17:00";"105";"Com vítima";"360,000";"BR-381/MG";"Decrescente";"Engavetamento";4;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"23/11/2025";"18:40:00";"107";"Com vítima";"418,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"23/11/2025";"19:28:00";"111";"Sem vítima";"303,000";"BR-381/MG";"Decrescente";"Capotamento";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"24/11/2025";"00:00:00";"82";"Com vítima";"242,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"24/11/2025";"10:36:00";"72";"Sem vítima";"229,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/11/2025";"12:32:00";"84";"Sem vítima";"331,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/11/2025";"19:09:00";"116";"Com vítima";"162,000";"BR-381/MG";"Crescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"25/11/2025";"05:27:00";"5";"Com vítima";"351,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"25/11/2025";"08:08:00";"44";"Sem vítima";"418,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"25/11/2025";"12:10:00";"76";"Sem vítima";"343,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"25/11/2025";"14:56:00";"95";"Com vítima";"297,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"25/11/2025";"16:56:00";"111";"Sem vítima";"322,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"25/11/2025";"22:53:00";"138";"Sem vítima";"395,000";"BR-381/MG";"Crescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/11/2025";"02:38:00";"3";"Sem vítima";"292,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"26/11/2025";"07:10:00";"39";"Sem vítima";"376,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"26/11/2025";"07:14:00";"40";"Com vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"26/11/2025";"07:47:00";"48";"Com vítima";"401,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"26/11/2025";"09:54:00";"72";"Sem vítima";"325,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/11/2025";"22:54:00";"195";"Com vítima";"419,000";"BR-381/MG";"Crescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"26/11/2025";"23:23:00";"197";"Sem vítima";"280,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/11/2025";"01:30:00";"3";"Sem vítima";"215,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/11/2025";"03:19:00";"6";"Sem vítima";"410,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/11/2025";"07:09:00";"42";"Com vítima";"385,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"27/11/2025";"07:21:00";"47";"Sem vítima";"387,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/11/2025";"12:27:00";"87";"Com vítima";"361,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"28/11/2025";"00:00:00";"43";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"00:00:00";"114";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Engavetamento";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"00:00:00";"128";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"00:00:00";"131";"Sem vítima";"303,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"00:00:00";"139";"Sem vítima";"392,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"06:19:00";"12";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"08:37:00";"52";"Sem vítima";"258,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"09:41:00";"71";"Sem vítima";"245,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"16:02:00";"123";"Com vítima";"278,000";"BR-381/MG";"Crescente";"Choque";0;0;1;1;0;0;0;0;0;0;0;1;0;0;0
+"28/11/2025";"17:12:00";"133";"Sem vítima";"343,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"18:47:00";"144";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/11/2025";"23:41:00";"164";"Sem vítima";"398,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/11/2025";"00:59:00";"2";"Sem vítima";"259,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/11/2025";"01:08:00";"4";"Sem vítima";"360,000";"BR-381/MG";"Decrescente";"Tombamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/11/2025";"06:09:00";"15";"Com vítima";"349,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"29/11/2025";"06:42:00";"22";"Sem vítima";"300,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/11/2025";"08:39:00";"35";"Com vítima";"361,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/11/2025";"11:36:00";"73";"Com vítima";"256,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"29/11/2025";"14:47:00";"96";"Com vítima";"356,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;1;0;2;4
+"29/11/2025";"16:20:00";"104";"Sem vítima";"414,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/11/2025";"15:46:00";"94";"Sem vítima";"409,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/11/2025";"17:17:00";"109";"Sem vítima";"379,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/11/2025";"18:26:00";"116";"Com vítima";"251,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;3;0;0;0
+"30/11/2025";"18:31:00";"117";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Choque";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"30/11/2025";"22:15:00";"137";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"01/12/2025";"00:37:00";"1";"Sem vítima";"214,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/12/2025";"07:14:00";"34";"Com vítima";"247,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/12/2025";"10:14:00";"75";"Com vítima";"171,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"01/12/2025";"14:22:00";"108";"Com vítima";"352,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/12/2025";"17:12:00";"128";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/12/2025";"17:12:00";"129";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/12/2025";"18:27:00";"134";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/12/2025";"00:00:00";"122";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"02/12/2025";"00:00:00";"146";"Sem vítima";"275,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"02/12/2025";"07:46:00";"24";"Sem vítima";"386,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/12/2025";"13:47:00";"95";"Sem vítima";"358,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/12/2025";"09:09:00";"47";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"04/12/2025";"00:00:00";"118";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/12/2025";"01:35:00";"3";"Com vítima";"220,000";"BR-381/MG";"Crescente";"Colisão traseira";3;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"04/12/2025";"04:17:00";"9";"Com vítima";"425,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"04/12/2025";"06:56:00";"34";"Com vítima";"274,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"04/12/2025";"09:07:00";"67";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;0;1;1;0;0;0;0;0;0;0;1;0;0
+"04/12/2025";"12:52:00";"101";"Com vítima";"372,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;0;1;0
+"04/12/2025";"13:48:00";"108";"Sem vítima";"343,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/12/2025";"13:55:00";"112";"Sem vítima";"303,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"04/12/2025";"14:47:00";"115";"Sem vítima";"300,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/12/2025";"15:35:00";"121";"Com vítima";"253,000";"BR-381/MG";"Decrescente";"Choque";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"04/12/2025";"15:43:00";"122";"Sem vítima";"252,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/12/2025";"16:00:00";"123";"Sem vítima";"379,000";"BR-381/MG";"Crescente";"Colisão traseira";3;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"04/12/2025";"16:38:00";"127";"Com vítima";"184,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"05/12/2025";"06:06:00";"14";"Sem vítima";"225,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/12/2025";"06:50:00";"31";"Sem vítima";"341,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/12/2025";"14:07:00";"97";"Com vítima";"308,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/12/2025";"15:39:00";"107";"Com vítima";"360,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"05/12/2025";"16:27:00";"112";"Com vítima";"409,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"05/12/2025";"18:55:00";"124";"Sem vítima";"214,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/12/2025";"22:17:00";"135";"Sem vítima";"226,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/12/2025";"00:00:00";"55";"Com vítima";"148,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;3;1;0;0
+"06/12/2025";"05:49:00";"30";"Sem vítima";"383,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/12/2025";"06:35:00";"37";"Sem vítima";"287,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/12/2025";"12:51:00";"82";"Com vítima";"379,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"06/12/2025";"15:17:00";"95";"Sem vítima";"217,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/12/2025";"16:10:00";"99";"Com vítima";"242,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/12/2025";"01:03:00";"3";"Sem vítima";"381,000";"BR-381/MG";"Crescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/12/2025";"11:47:00";"47";"Sem vítima";"414,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/12/2025";"18:52:00";"88";"Com vítima";"350,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/12/2025";"19:26:00";"94";"Sem vítima";"449,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/12/2025";"19:39:00";"97";"Com vítima";"337,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/12/2025";"19:49:00";"99";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"08/12/2025";"14:18:00";"108";"Com vítima";"238,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"08/12/2025";"14:21:00";"109";"Com vítima";"445,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"08/12/2025";"15:24:00";"124";"Sem vítima";"361,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/12/2025";"15:48:00";"125";"Sem vítima";"353,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/12/2025";"16:05:00";"129";"Sem vítima";"417,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/12/2025";"17:34:00";"140";"Com vítima";"244,000";"BR-381/MG";"Crescente";"Colisão frontal";3;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"08/12/2025";"19:24:00";"149";"Com vítima";"157,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"08/12/2025";"20:42:00";"158";"Sem vítima";"369,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/12/2025";"22:53:00";"166";"Sem vítima";"415,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/12/2025";"07:55:00";"53";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"09/12/2025";"08:17:00";"62";"Sem vítima";"292,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/12/2025";"20:05:00";"145";"Sem vítima";"339,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/12/2025";"22:01:00";"160";"Com vítima";"199,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"09/12/2025";"22:19:00";"162";"Sem vítima";"422,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/12/2025";"00:40:00";"5";"Sem vítima";"337,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/12/2025";"00:51:00";"6";"Sem vítima";"343,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/12/2025";"01:07:00";"8";"Com vítima";"239,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/12/2025";"07:09:00";"32";"Sem vítima";"328,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/12/2025";"12:08:00";"84";"Sem vítima";"228,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/12/2025";"13:26:00";"93";"Com vítima";"158,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/12/2025";"14:25:00";"98";"Com vítima";"379,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;2;0;1;1
+"10/12/2025";"23:02:00";"128";"Com vítima";"397,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"11/12/2025";"00:00:00";"2";"Sem vítima";"449,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"11/12/2025";"05:05:00";"8";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/12/2025";"10:08:00";"70";"Sem vítima";"277,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/12/2025";"11:33:00";"80";"Com vítima";"158,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;0;0;1;0;0;0;0;0;0;1;0;0
+"11/12/2025";"13:11:00";"91";"Sem vítima";"327,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/12/2025";"19:58:00";"143";"Com vítima";"147,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"11/12/2025";"22:42:00";"151";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/12/2025";"00:00:00";"147";"Com vítima";"158,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"12/12/2025";"08:55:00";"67";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"12/12/2025";"14:47:00";"142";"Sem vítima";"247,000";"BR-381/MG";"Decrescente";"Engavetamento";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"12/12/2025";"18:34:00";"144";"Com vítima";"413,000";"BR-381/MG";"Crescente";"Atropelamento de pedestre";0;0;1;1;0;0;0;0;0;0;0;0;0;1;1
+"12/12/2025";"18:58:00";"146";"Sem vítima";"412,800";"BR-381/MG";"Crescente";"Engavetamento";5;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/12/2025";"20:55:00";"159";"Sem vítima";"251,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"13/12/2025";"00:00:00";"50";"Com vítima";"412,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"13/12/2025";"08:31:00";"42";"Sem vítima";"364,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"13/12/2025";"10:06:00";"57";"Sem vítima";"353,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"13/12/2025";"20:40:00";"131";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"13/12/2025";"21:11:00";"133";"Com vítima";"353,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"14/12/2025";"01:18:00";"3";"Com vítima";"314,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"14/12/2025";"03:44:00";"122";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/12/2025";"03:58:00";"110";"Sem vítima";"358,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/12/2025";"06:27:00";"28";"Com vítima";"329,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"14/12/2025";"12:52:00";"61";"Com vítima";"191,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"14/12/2025";"15:03:00";"101";"Sem vítima";"153,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/12/2025";"16:43:00";"87";"Sem vítima";"327,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/12/2025";"00:00:00";"141";"Sem vítima";"229,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/12/2025";"00:56:00";"4";"Sem vítima";"340,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/12/2025";"10:50:00";"85";"Sem vítima";"305,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/12/2025";"11:27:00";"91";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"15/12/2025";"12:43:00";"99";"Sem vítima";"343,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"15/12/2025";"14:45:00";"108";"Com vítima";"339,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"15/12/2025";"15:51:00";"116";"Com vítima";"170,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;1;0
+"15/12/2025";"19:16:00";"129";"Com vítima";"344,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"15/12/2025";"20:27:00";"133";"Sem vítima";"287,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/12/2025";"11:19:00";"89";"Sem vítima";"364,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"16/12/2025";"11:35:00";"92";"Sem vítima";"258,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"16/12/2025";"20:04:00";"154";"Sem vítima";"352,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/12/2025";"20:06:00";"156";"Sem vítima";"404,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/12/2025";"22:10:00";"163";"Sem vítima";"417,000";"BR-381/MG";"Decrescente";"Colisão traseira";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/12/2025";"00:00:00";"161";"Sem vítima";"147,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"17/12/2025";"00:59:00";"3";"Com vítima";"379,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"17/12/2025";"02:26:00";"7";"Com vítima";"408,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;1;0;0;1;0;0;0;0;0;1;1;1;0
+"17/12/2025";"10:29:00";"66";"Com vítima";"297,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;5;0;0;0
+"17/12/2025";"11:38:00";"78";"Sem vítima";"344,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"17/12/2025";"13:07:00";"88";"Sem vítima";"340,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/12/2025";"00:00:00";"44";"Sem vítima";"236,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/12/2025";"08:27:00";"51";"Sem vítima";"157,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/12/2025";"16:17:00";"148";"Sem vítima";"241,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/12/2025";"00:00:00";"36";"Sem vítima";"208,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/12/2025";"01:52:00";"6";"Sem vítima";"268,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/12/2025";"04:42:00";"12";"Com vítima";"389,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"19/12/2025";"12:44:00";"94";"Sem vítima";"266,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/12/2025";"14:18:00";"113";"Sem vítima";"255,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"00:04:00";"1";"Sem vítima";"165,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"04:58:00";"20";"Sem vítima";"449,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"06:00:00";"22";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"06:08:00";"23";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"20/12/2025";"06:10:00";"24";"Sem vítima";"304,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"06:49:00";"30";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"06:56:00";"32";"Sem vítima";"420,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"07:21:00";"35";"Sem vítima";"307,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"13:13:00";"100";"Com vítima";"279,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"20/12/2025";"13:21:00";"101";"Sem vítima";"370,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"20/12/2025";"15:42:00";"118";"Sem vítima";"444,500";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"21/12/2025";"04:57:00";"9";"Sem vítima";"336,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/12/2025";"09:04:00";"50";"Sem vítima";"395,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/12/2025";"09:16:00";"53";"Com vítima";"449,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"21/12/2025";"09:41:00";"55";"Com vítima";"310,500";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"21/12/2025";"19:24:00";"124";"Com vítima";"150,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/12/2025";"22:02:00";"134";"Com vítima";"422,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"22/12/2025";"07:47:00";"35";"Com vítima";"327,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;4;1;0;0
+"22/12/2025";"10:15:00";"69";"Sem vítima";"327,500";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/12/2025";"13:31:00";"96";"Com vítima";"425,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"22/12/2025";"15:21:00";"111";"Sem vítima";"226,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/12/2025";"05:23:00";"11";"Sem vítima";"169,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/12/2025";"08:26:00";"35";"Com vítima";"353,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"23/12/2025";"15:17:00";"110";"Sem vítima";"268,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/12/2025";"15:20:00";"111";"Sem vítima";"440,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"23/12/2025";"16:17:00";"120";"Sem vítima";"334,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/12/2025";"18:41:00";"140";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/12/2025";"19:29:00";"149";"Com vítima";"230,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;1;0
+"23/12/2025";"21:25:00";"166";"Sem vítima";"380,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"00:00:00";"151";"Com vítima";"240,000";"BR-381/MG";"Crescente";"Atropelamento de pedestre";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"24/12/2025";"01:25:00";"149";"Com vítima";"242,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"24/12/2025";"06:49:00";"22";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"10:43:00";"65";"Com vítima";"389,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"24/12/2025";"12:29:00";"79";"Sem vítima";"338,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"12:35:00";"80";"Sem vítima";"446,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"13:06:00";"84";"Sem vítima";"418,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"14:11:00";"89";"Sem vítima";"246,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"15:06:00";"97";"Com vítima";"279,526";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;3;1;0;0
+"24/12/2025";"15:18:00";"98";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"15:56:00";"105";"Sem vítima";"283,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"24/12/2025";"16:09:00";"110";"Com vítima";"336,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"24/12/2025";"22:39:00";"148";"Com vítima";"442,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"25/12/2025";"00:00:00";"15";"Sem vítima";"196,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/12/2025";"00:00:00";"46";"Sem vítima";"445,100";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/12/2025";"00:00:00";"79";"Com vítima";"193,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"25/12/2025";"01:04:00";"5";"Sem vítima";"251,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/12/2025";"01:55:00";"6";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"25/12/2025";"08:15:00";"34";"Sem vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/12/2025";"15:43:00";"61";"Com vítima";"380,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"25/12/2025";"16:26:00";"68";"Com vítima";"369,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"25/12/2025";"17:35:00";"77";"Com vítima";"369,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"26/12/2025";"00:00:00";"14";"Com vítima";"395,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"26/12/2025";"00:00:00";"47";"Com vítima";"404,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"26/12/2025";"00:00:00";"84";"Sem vítima";"422,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"05:28:00";"13";"Sem vítima";"396,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"08:05:00";"26";"Sem vítima";"287,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"10:07:00";"42";"Sem vítima";"395,100";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"12:08:00";"48";"Sem vítima";"147,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"14:57:00";"70";"Com vítima";"318,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"26/12/2025";"16:07:00";"81";"Sem vítima";"421,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"17:25:00";"91";"Sem vítima";"207,000";"BR-381/MG";"Decrescente";"Engavetamento";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"20:25:00";"104";"Sem vítima";"208,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/12/2025";"20:29:00";"106";"Com vítima";"303,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"26/12/2025";"22:38:00";"111";"Sem vítima";"231,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/12/2025";"00:00:00";"66";"Com vítima";"447,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"27/12/2025";"01:14:00";"4";"Com vítima";"357,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"27/12/2025";"07:03:00";"28";"Com vítima";"413,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"28/12/2025";"00:00:00";"132";"Com vítima";"290,000";"BR-381/MG";"Crescente";"Atropelamento de pedestre";0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"28/12/2025";"09:03:00";"37";"Sem vítima";"248,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"28/12/2025";"09:17:00";"40";"Sem vítima";"392,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/12/2025";"14:01:00";"78";"Sem vítima";"366,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/12/2025";"17:57:00";"115";"Sem vítima";"321,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/12/2025";"21:24:00";"131";"Com vítima";"355,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"29/12/2025";"00:00:00";"79";"Sem vítima";"399,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/12/2025";"12:38:00";"80";"Sem vítima";"396,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/12/2025";"12:57:00";"83";"Com vítima";"162,000";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"29/12/2025";"15:05:00";"107";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/12/2025";"20:52:00";"157";"Sem vítima";"445,500";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/12/2025";"00:00:00";"98";"Sem vítima";"341,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"30/12/2025";"01:18:00";"6";"Sem vítima";"265,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;2;0;0;0;0;0;0;0;0;0;0
+"30/12/2025";"12:36:00";"67";"Com vítima";"316,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;1;0;0;1
+"30/12/2025";"13:13:00";"68";"Sem vítima";"386,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/12/2025";"14:07:00";"74";"Sem vítima";"235,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/12/2025";"15:26:00";"93";"Com vítima";"426,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"30/12/2025";"17:30:00";"105";"Com vítima";"380,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;2;1;0;0
+"30/12/2025";"18:03:00";"112";"Com vítima";"245,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"30/12/2025";"18:34:00";"116";"Com vítima";"168,000";"BR-381/MG";"Crescente";"Queda de moto";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"30/12/2025";"18:50:00";"118";"Com vítima";"448,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"30/12/2025";"21:25:00";"133";"Sem vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/12/2025";"07:33:00";"30";"Sem vítima";"379,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/12/2025";"08:16:00";"35";"Sem vítima";"360,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/12/2025";"10:16:00";"49";"Com vítima";"375,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"31/12/2025";"11:09:00";"54";"Com vítima";"252,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"31/12/2025";"16:14:00";"76";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/12/2025";"20:38:00";"98";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Choque";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"01/01/2026";"00:00:00";"96";"Com vítima";"356,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"01/01/2026";"00:32:00";"2";"Com vítima";"246,000";"BR-381/MG";"Crescente";"Atropelamento de pedestre";1;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"01/01/2026";"05:28:00";"6";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/01/2026";"07:14:00";"13";"Sem vítima";"160,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"01/01/2026";"08:20:00";"21";"Com vítima";"201,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"01/01/2026";"14:22:00";"52";"Sem vítima";"334,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/01/2026";"19:21:00";"90";"Sem vítima";"244,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/01/2026";"22:01:00";"110";"Sem vítima";"305,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/01/2026";"22:14:00";"112";"Sem vítima";"426,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/01/2026";"01:46:00";"3";"Sem vítima";"415,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/01/2026";"09:02:00";"49";"Com vítima";"442,100";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"02/01/2026";"10:54:00";"66";"Com vítima";"288,000";"BR-381/MG";"Crescente";"Capotamento";2;0;1;0;0;0;0;0;0;0;0;0;4;0;0
+"02/01/2026";"14:20:00";"76";"Sem vítima";"406,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/01/2026";"15:43:00";"86";"Com vítima";"226,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;1;0;0;0;0;0;0;0;0;0;1
+"02/01/2026";"23:41:00";"130";"Sem vítima";"268,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/01/2026";"04:56:00";"12";"Sem vítima";"170,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/01/2026";"05:03:00";"13";"Com vítima";"374,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"03/01/2026";"06:53:00";"18";"Sem vítima";"343,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/01/2026";"14:53:00";"79";"Com vítima";"427,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"03/01/2026";"22:35:00";"122";"Com vítima";"257,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+"04/01/2026";"00:00:00";"10";"Com vítima";"219,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;4;0;0;0
+"04/01/2026";"00:14:00";"2";"Sem vítima";"349,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"00:21:00";"3";"Com vítima";"163,000";"BR-381/MG";"Crescente";"Choque";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"04/01/2026";"06:48:00";"17";"Sem vítima";"358,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"07:24:00";"21";"Com vítima";"371,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"04/01/2026";"07:38:00";"24";"Sem vítima";"355,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"08:09:00";"27";"Com vítima";"430,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;3;0;0;0
+"04/01/2026";"08:46:00";"32";"Sem vítima";"383,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"09:10:00";"33";"Com vítima";"378,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;1;0
+"04/01/2026";"09:47:00";"36";"Sem vítima";"384,500";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"10:41:00";"41";"Com vítima";"356,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"04/01/2026";"11:13:00";"47";"Com vítima";"360,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"04/01/2026";"13:38:00";"67";"Sem vítima";"361,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"13:43:00";"68";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"14:09:00";"75";"Com vítima";"360,500";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"04/01/2026";"15:08:00";"84";"Sem vítima";"397,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"16:08:00";"90";"Com vítima";"420,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"04/01/2026";"16:36:00";"95";"Com vítima";"359,000";"BR-381/MG";"Crescente";"Choque";2;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"04/01/2026";"17:22:00";"100";"Sem vítima";"379,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"18:30:00";"107";"Sem vítima";"379,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/01/2026";"23:16:00";"136";"Sem vítima";"441,100";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"00:00:00";"10";"Sem vítima";"393,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"00:00:00";"51";"Sem vítima";"426,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"02:08:00";"9";"Com vítima";"154,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"05/01/2026";"03:26:00";"11";"Sem vítima";"432,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"04:59:00";"15";"Sem vítima";"288,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"07:18:00";"42";"Com vítima";"358,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"05/01/2026";"11:25:00";"70";"Sem vítima";"426,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"12:45:00";"88";"Com vítima";"323,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;1;0;0;0;0;0;2;0;0;0
+"05/01/2026";"14:18:00";"98";"Sem vítima";"402,500";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"14:43:00";"103";"Com vítima";"162,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;2;0;0
+"05/01/2026";"16:21:00";"119";"Sem vítima";"185,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"17:46:00";"128";"Sem vítima";"343,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/01/2026";"19:34:00";"143";"Com vítima";"401,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"06/01/2026";"02:47:00";"17";"Com vítima";"427,200";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"06/01/2026";"06:41:00";"38";"Sem vítima";"344,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"09:07:00";"55";"Com vítima";"251,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"06/01/2026";"10:16:00";"70";"Sem vítima";"247,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"11:34:00";"94";"Sem vítima";"422,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"11:37:00";"95";"Sem vítima";"238,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"12:16:00";"99";"Sem vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"15:18:00";"132";"Sem vítima";"419,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"16:12:00";"135";"Sem vítima";"399,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"06/01/2026";"22:31:00";"163";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/01/2026";"02:38:00";"11";"Com vítima";"356,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"07/01/2026";"02:51:00";"13";"Com vítima";"252,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"07/01/2026";"05:26:00";"20";"Com vítima";"345,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"07/01/2026";"17:46:00";"121";"Sem vítima";"247,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/01/2026";"19:00:00";"127";"Sem vítima";"313,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/01/2026";"23:45:00";"158";"Sem vítima";"346,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/01/2026";"02:24:00";"7";"Sem vítima";"351,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/01/2026";"10:51:00";"71";"Sem vítima";"313,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/01/2026";"11:29:00";"75";"Sem vítima";"382,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"08/01/2026";"13:00:00";"84";"Com vítima";"249,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"08/01/2026";"19:23:00";"133";"Com vítima";"404,500";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"08/01/2026";"19:38:00";"135";"Sem vítima";"398,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/01/2026";"02:20:00";"9";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"09/01/2026";"07:56:00";"44";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/01/2026";"09:39:00";"68";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"09/01/2026";"10:53:00";"78";"Sem vítima";"314,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"09/01/2026";"13:23:00";"95";"Sem vítima";"426,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"10/01/2026";"04:11:00";"18";"Sem vítima";"434,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"10/01/2026";"11:55:00";"71";"Com vítima";"218,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"10/01/2026";"13:00:00";"75";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"10/01/2026";"21:58:00";"125";"Sem vítima";"248,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/01/2026";"00:00:00";"44";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;3;0;0
+"11/01/2026";"01:50:00";"11";"Com vítima";"322,500";"BR-381/MG";"Crescente";"Atropelamento de pedestre";1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"11/01/2026";"01:52:00";"12";"Sem vítima";"395,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/01/2026";"09:20:00";"43";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/01/2026";"11:45:00";"55";"Sem vítima";"290,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/01/2026";"14:23:00";"77";"Com vítima";"239,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;1;0;1;0;0;0
+"11/01/2026";"14:28:00";"79";"Com vítima";"417,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"11/01/2026";"16:58:00";"99";"Com vítima";"443,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/01/2026";"19:04:00";"116";"Com vítima";"351,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"11/01/2026";"21:54:00";"132";"Sem vítima";"377,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/01/2026";"00:20:00";"2";"Sem vítima";"223,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/01/2026";"04:53:00";"15";"Sem vítima";"302,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/01/2026";"11:50:00";"88";"Sem vítima";"339,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/01/2026";"13:05:00";"96";"Sem vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/01/2026";"13:33:00";"98";"Com vítima";"244,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"13/01/2026";"00:00:00";"29";"Com vítima";"445,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;1;0;0;0;0;0;0;0;0;0;0;1;0
+"13/01/2026";"00:00:00";"163";"Sem vítima";"422,250";"BR-381/MG";"Crescente";"Carreta deu L";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/01/2026";"05:51:00";"6";"Com vítima";"276,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;2;0;1;3
+"13/01/2026";"07:16:00";"45";"Sem vítima";"364,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/01/2026";"09:39:00";"48";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"13/01/2026";"09:39:00";"49";"Sem vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"13/01/2026";"17:24:00";"124";"Sem vítima";"249,200";"BR-381/MG";"Decrescente";"Engavetamento";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/01/2026";"23:51:00";"164";"Com vítima";"398,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;1;0;0;0;0;0;0;0;0;1;0;0
+"14/01/2026";"06:46:00";"36";"Com vítima";"252,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/01/2026";"11:16:00";"100";"Com vítima";"202,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;2;0;0
+"14/01/2026";"14:46:00";"127";"Com vítima";"239,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"14/01/2026";"16:57:00";"149";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Colisão traseira";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/01/2026";"19:09:00";"159";"Sem vítima";"385,800";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/01/2026";"07:06:00";"25";"Com vítima";"446,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;2;0;0;0;0;0;0;0;1;0;0;0
+"15/01/2026";"08:25:00";"61";"Com vítima";"172,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"15/01/2026";"11:04:00";"86";"Sem vítima";"412,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/01/2026";"16:40:00";"137";"Sem vítima";"315,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"15/01/2026";"16:46:00";"139";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/01/2026";"16:49:00";"142";"Sem vítima";"423,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/01/2026";"16:54:00";"143";"Sem vítima";"429,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/01/2026";"18:14:00";"149";"Com vítima";"447,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"16/01/2026";"08:13:00";"46";"Sem vítima";"396,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/01/2026";"10:46:00";"67";"Com vítima";"351,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;1;1;0;0;0;0;0;0;0;1;0;0;0
+"16/01/2026";"19:03:00";"130";"Sem vítima";"424,000";"BR-381/MG";"Decrescente";"Colisão transversal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"17/01/2026";"08:53:00";"39";"Com vítima";"250,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"17/01/2026";"10:00:00";"43";"Com vítima";"420,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;0;1;1
+"17/01/2026";"13:31:00";"77";"Com vítima";"162,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;1;2;0;0
+"17/01/2026";"19:44:00";"117";"Com vítima";"158,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"18/01/2026";"08:54:00";"42";"Com vítima";"425,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"18/01/2026";"12:49:00";"62";"Sem vítima";"239,000";"BR-381/MG";"Crescente";"Engavetamento";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/01/2026";"13:38:00";"69";"Com vítima";"424,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;4;0;0;0
+"18/01/2026";"13:58:00";"70";"Com vítima";"422,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"18/01/2026";"14:07:00";"72";"Com vítima";"360,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+"18/01/2026";"14:43:00";"76";"Sem vítima";"379,300";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/01/2026";"16:48:00";"85";"Sem vítima";"341,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/01/2026";"18:57:00";"100";"Sem vítima";"397,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/01/2026";"19:53:00";"107";"Com vítima";"354,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;1;0;0;0;0;0;0;1;0;0;0
+"18/01/2026";"20:59:00";"112";"Com vítima";"149,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+"18/01/2026";"22:40:00";"120";"Sem vítima";"172,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/01/2026";"23:59:00";"128";"Com vítima";"158,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"19/01/2026";"00:00:00";"73";"Sem vítima";"245,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"03:08:00";"48";"Sem vítima";"366,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"03:47:00";"13";"Com vítima";"330,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"19/01/2026";"04:26:00";"47";"Com vítima";"426,150";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"19/01/2026";"06:54:00";"36";"Com vítima";"326,000";"BR-381/MG";"Decrescente";"Colisão frontal";0;0;1;1;0;0;0;0;0;0;0;1;0;0;0
+"19/01/2026";"09:00:00";"53";"Sem vítima";"191,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"10:13:00";"56";"Sem vítima";"349,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;1;0;0;0;0;0
+"19/01/2026";"11:53:00";"64";"Com vítima";"305,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"19/01/2026";"15:02:00";"81";"Sem vítima";"435,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"16:20:00";"88";"Sem vítima";"239,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"17:03:00";"94";"Sem vítima";"435,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"20:28:00";"112";"Sem vítima";"214,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/01/2026";"20:32:00";"113";"Com vítima";"246,000";"BR-381/MG";"Decrescente";"Atropelamento de ciclista";0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"00:00:00";"5";"Sem vítima";"434,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"00:00:00";"50";"Sem vítima";"360,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"09:13:00";"47";"Sem vítima";"368,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"10:30:00";"60";"Com vítima";"441,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"20/01/2026";"10:33:00";"61";"Sem vítima";"440,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"11:35:00";"68";"Sem vítima";"368,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"12:19:00";"72";"Com vítima";"330,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"20/01/2026";"16:38:00";"96";"Sem vítima";"245,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"16:45:00";"98";"Sem vítima";"372,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"17:33:00";"105";"Sem vítima";"242,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"19:25:00";"117";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"19:30:00";"118";"Com vítima";"250,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"20/01/2026";"21:12:00";"125";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"20/01/2026";"23:08:00";"134";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"21/01/2026";"00:14:00";"2";"Sem vítima";"303,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"00:24:00";"3";"Sem vítima";"237,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"03:50:00";"9";"Sem vítima";"329,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"04:17:00";"10";"Sem vítima";"294,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"07:17:00";"34";"Com vítima";"310,800";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;1;1
+"21/01/2026";"08:30:00";"45";"Com vítima";"238,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"21/01/2026";"09:35:00";"52";"Sem vítima";"176,997";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"10:57:00";"59";"Sem vítima";"257,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"13:05:00";"75";"Sem vítima";"380,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"13:44:00";"81";"Com vítima";"422,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"21/01/2026";"15:19:00";"85";"Sem vítima";"362,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"21/01/2026";"17:43:00";"97";"Sem vítima";"248,500";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"22/01/2026";"01:25:00";"2";"Sem vítima";"370,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/01/2026";"04:17:00";"6";"Sem vítima";"423,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/01/2026";"06:48:00";"17";"Sem vítima";"251,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"22/01/2026";"11:57:00";"63";"Sem vítima";"398,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"22/01/2026";"19:21:00";"106";"Sem vítima";"379,800";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/01/2026";"19:33:00";"109";"Com vítima";"449,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"23/01/2026";"00:00:00";"142";"Sem vítima";"357,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/01/2026";"00:52:00";"3";"Sem vítima";"256,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/01/2026";"12:30:00";"97";"Sem vítima";"238,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/01/2026";"13:54:00";"109";"Sem vítima";"287,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"23/01/2026";"23:44:00";"175";"Sem vítima";"247,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/01/2026";"00:00:00";"23";"Sem vítima";"425,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/01/2026";"00:00:00";"83";"Com vítima";"242,300";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"24/01/2026";"00:00:00";"97";"Sem vítima";"407,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/01/2026";"07:17:00";"20";"Sem vítima";"425,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/01/2026";"10:00:00";"54";"Com vítima";"351,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"24/01/2026";"16:48:00";"90";"Com vítima";"438,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"24/01/2026";"17:09:00";"93";"Sem vítima";"418,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/01/2026";"17:49:00";"98";"Sem vítima";"154,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/01/2026";"20:57:00";"116";"Sem vítima";"387,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/01/2026";"01:42:00";"6";"Com vítima";"212,000";"BR-381/MG";"Crescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;0;2;0
+"25/01/2026";"17:26:00";"136";"Sem vítima";"397,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/01/2026";"17:51:00";"139";"Sem vítima";"435,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/01/2026";"18:40:00";"142";"Sem vítima";"443,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"25/01/2026";"19:29:00";"149";"Com vítima";"378,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+"25/01/2026";"21:11:00";"158";"Com vítima";"154,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"26/01/2026";"07:54:00";"46";"Sem vítima";"380,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/01/2026";"10:11:00";"71";"Com vítima";"361,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"27/01/2026";"15:55:00";"123";"Com vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;1;1;0;0;0;0;0;0;1;0;0;0
+"27/01/2026";"15:56:00";"124";"Sem vítima";"427,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;0;0;0;0;0;0;2;0;0;0;0;0
+"27/01/2026";"19:54:00";"146";"Sem vítima";"340,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/01/2026";"20:38:00";"150";"Com vítima";"265,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+"28/01/2026";"00:00:00";"115";"Sem vítima";"243,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"28/01/2026";"09:14:00";"33";"Sem vítima";"259,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"28/01/2026";"13:00:00";"82";"Sem vítima";"250,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/01/2026";"13:05:00";"83";"Sem vítima";"440,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"28/01/2026";"23:03:00";"142";"Sem vítima";"347,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/01/2026";"00:00:00";"102";"Com vítima";"436,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/01/2026";"01:25:00";"6";"Sem vítima";"397,000";"BR-381/MG";"Crescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"29/01/2026";"06:33:00";"29";"Com vítima";"373,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+"29/01/2026";"15:55:00";"125";"Sem vítima";"450,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"29/01/2026";"16:17:00";"128";"Com vítima";"391,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"29/01/2026";"21:09:00";"154";"Sem vítima";"426,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"00:00:00";"179";"Sem vítima";"176,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"00:00:00";"205";"Sem vítima";"392,900";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"00:00:00";"206";"Com vítima";"243,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"30/01/2026";"00:15:00";"2";"Sem vítima";"341,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"06:01:00";"16";"Com vítima";"154,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"30/01/2026";"06:02:00";"17";"Sem vítima";"153,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"07:37:00";"59";"Sem vítima";"425,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"15:11:00";"163";"Com vítima";"274,500";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"30/01/2026";"15:36:00";"171";"Sem vítima";"185,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"16:03:00";"173";"Sem vítima";"160,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"16:08:00";"175";"Sem vítima";"357,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"30/01/2026";"16:25:00";"178";"Sem vítima";"237,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/01/2026";"05:33:00";"24";"Com vítima";"253,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"31/01/2026";"09:49:00";"61";"Com vítima";"369,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;1;0;5;0;0;0
+"31/01/2026";"15:31:00";"103";"Com vítima";"242,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"31/01/2026";"15:58:00";"104";"Sem vítima";"358,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/01/2026";"19:16:00";"121";"Sem vítima";"232,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"31/01/2026";"19:41:00";"117";"Com vítima";"425,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"31/01/2026";"22:48:00";"132";"Sem vítima";"417,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"01/02/2026";"06:53:00";"14";"Com vítima";"447,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"01/02/2026";"14:20:00";"76";"Com vítima";"148,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"01/02/2026";"15:18:00";"83";"Sem vítima";"335,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/02/2026";"00:04:00";"1";"Sem vítima";"177,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/02/2026";"08:27:00";"70";"Com vítima";"251,500";"BR-381/MG";"Crescente";"Engavetamento";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"02/02/2026";"09:06:00";"75";"Sem vítima";"342,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"02/02/2026";"15:22:00";"118";"Sem vítima";"448,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"03/02/2026";"01:29:00";"4";"Com vítima";"335,000";"BR-381/MG";"Decrescente";"Capotamento";0;0;0;0;0;1;0;0;0;0;0;1;0;0;0
+"03/02/2026";"04:09:00";"14";"Sem vítima";"338,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"03/02/2026";"07:44:00";"52";"Com vítima";"232,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;1;0;0;0;0;0;0;0;0;1;0;0
+"03/02/2026";"15:54:00";"119";"Sem vítima";"209,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"03/02/2026";"16:03:00";"120";"Sem vítima";"356,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/02/2026";"00:00:00";"41";"Com vítima";"251,000";"BR-381/MG";"Crescente";"Engavetamento";2;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"04/02/2026";"00:00:00";"120";"Sem vítima";"420,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/02/2026";"07:03:00";"35";"Sem vítima";"257,500";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"04/02/2026";"07:17:00";"40";"Com vítima";"250,000";"BR-381/MG";"Crescente";"Atropelamento de ciclista";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/02/2026";"16:15:00";"123";"Sem vítima";"225,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"04/02/2026";"21:32:00";"147";"Com vítima";"153,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"05/02/2026";"07:25:00";"20";"Sem vítima";"356,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+"05/02/2026";"08:02:00";"27";"Sem vítima";"423,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"05/02/2026";"17:47:00";"125";"Com vítima";"240,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;3;0;0;0
+"05/02/2026";"20:19:00";"134";"Sem vítima";"381,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/02/2026";"07:49:00";"51";"Sem vítima";"318,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"06/02/2026";"13:25:00";"149";"Com vítima";"247,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;2;0;0
+"06/02/2026";"23:26:00";"219";"Com vítima";"430,000";"BR-381/MG";"Crescente";"Atropelamento de pedestre";0;0;0;2;0;0;0;0;0;0;0;2;0;0;0
+"07/02/2026";"01:11:00";"4";"Com vítima";"323,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"07/02/2026";"02:54:00";"7";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+"07/02/2026";"09:15:00";"42";"Sem vítima";"436,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"07/02/2026";"09:29:00";"44";"Sem vítima";"309,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"07/02/2026";"09:46:00";"46";"Com vítima";"197,000";"BR-381/MG";"Decrescente";"Colisão frontal";3;0;0;0;0;0;0;0;0;0;0;6;1;1;0
+"07/02/2026";"14:15:00";"70";"Com vítima";"422,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"07/02/2026";"18:48:00";"100";"Com vítima";"224,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"07/02/2026";"23:39:00";"123";"Sem vítima";"376,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"00:00:00";"136";"Sem vítima";"382,000";"BR-381/MG";"Crescente";"Tombamento";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"00:18:00";"3";"Sem vítima";"326,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"01:43:00";"11";"Sem vítima";"340,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"01:48:00";"13";"Sem vítima";"372,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"03:31:00";"16";"Sem vítima";"247,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"07:46:00";"37";"Com vítima";"359,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"08/02/2026";"11:13:00";"60";"Sem vítima";"447,000";"BR-381/MG";"Crescente";"Engavetamento";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"15:38:00";"85";"Com vítima";"190,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"08/02/2026";"17:25:00";"104";"Sem vítima";"397,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"08/02/2026";"18:28:00";"114";"Sem vítima";"425,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/02/2026";"06:44:00";"13";"Com vítima";"425,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"09/02/2026";"07:31:00";"12";"Com vítima";"448,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"09/02/2026";"07:40:00";"34";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"09/02/2026";"16:10:00";"117";"Com vítima";"243,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"09/02/2026";"19:52:00";"137";"Com vítima";"246,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"10/02/2026";"14:53:00";"105";"Sem vítima";"427,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"10/02/2026";"16:56:00";"132";"Sem vítima";"251,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"10/02/2026";"21:46:00";"160";"Com vítima";"257,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"11/02/2026";"06:59:00";"34";"Com vítima";"251,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;2;0;0;0
+"11/02/2026";"13:47:00";"100";"Sem vítima";"354,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+"11/02/2026";"19:25:00";"129";"Sem vítima";"445,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"11/02/2026";"20:45:00";"134";"Sem vítima";"449,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/02/2026";"00:00:00";"64";"Sem vítima";"271,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/02/2026";"01:55:00";"5";"Sem vítima";"368,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"12/02/2026";"03:58:00";"8";"Com vítima";"364,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"12/02/2026";"10:09:00";"109";"Sem vítima";"329,000";"BR-381/MG";"Crescente";"Colisão transversal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/02/2026";"14:10:00";"100";"Com vítima";"374,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"12/02/2026";"14:34:00";"103";"Com vítima";"164,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"12/02/2026";"16:45:00";"116";"Sem vítima";"195,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"12/02/2026";"18:58:00";"131";"Sem vítima";"445,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"12/02/2026";"19:28:00";"133";"Sem vítima";"445,500";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/02/2026";"04:39:00";"14";"Sem vítima";"322,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"13/02/2026";"06:19:00";"24";"Com vítima";"395,000";"BR-381/MG";"Decrescente";"Engavetamento";2;0;2;0;0;0;0;0;0;0;0;0;1;0;1
+"13/02/2026";"13:32:00";"96";"Com vítima";"244,000";"BR-381/MG";"Decrescente";"Choque";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"13/02/2026";"16:13:00";"115";"Sem vítima";"427,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"13/02/2026";"16:48:00";"118";"Com vítima";"232,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;1;1;0;0;0;0;0;0;0;1;1;0;0
+"13/02/2026";"23:06:00";"146";"Com vítima";"341,100";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"14/02/2026";"05:13:00";"11";"Com vítima";"333,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+"14/02/2026";"06:31:00";"16";"Sem vítima";"349,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/02/2026";"08:49:00";"30";"Com vítima";"249,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"14/02/2026";"09:37:00";"45";"Sem vítima";"308,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"14/02/2026";"10:55:00";"61";"Sem vítima";"242,000";"BR-381/MG";"Crescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/02/2026";"11:47:00";"66";"Com vítima";"425,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"14/02/2026";"15:29:00";"91";"Sem vítima";"434,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"14/02/2026";"16:17:00";"98";"Sem vítima";"306,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"14/02/2026";"16:46:00";"104";"Sem vítima";"342,000";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"14/02/2026";"16:54:00";"107";"Sem vítima";"369,900";"BR-381/MG";"Crescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"15/02/2026";"04:29:00";"15";"Com vítima";"427,000";"BR-381/MG";"Crescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"15/02/2026";"07:09:00";"24";"Sem vítima";"217,000";"BR-381/MG";"Decrescente";"Atropelamento de animal";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/02/2026";"07:33:00";"28";"Com vítima";"227,000";"BR-381/MG";"Decrescente";"Colisão frontal";3;0;0;0;0;0;0;0;0;0;0;5;0;0;0
+"15/02/2026";"10:56:00";"46";"Com vítima";"284,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;1;1;0;0;0;0;0;0;0;1;1;0;0
+"15/02/2026";"11:41:00";"50";"Sem vítima";"378,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"15/02/2026";"18:42:00";"88";"Com vítima";"248,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;1;0;0
+"15/02/2026";"21:55:00";"104";"Com vítima";"147,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;2
+"16/02/2026";"03:49:00";"6";"Com vítima";"427,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+"16/02/2026";"12:21:00";"69";"Sem vítima";"355,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/02/2026";"13:42:00";"74";"Sem vítima";"438,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/02/2026";"16:27:00";"90";"Sem vítima";"240,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"16/02/2026";"16:33:00";"91";"Com vítima";"242,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;3;1;0;0
+"16/02/2026";"22:45:00";"126";"Sem vítima";"427,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/02/2026";"04:50:00";"8";"Sem vítima";"148,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/02/2026";"11:13:00";"70";"Sem vítima";"305,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/02/2026";"16:54:00";"114";"Com vítima";"239,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;2;0;0;0
+"17/02/2026";"20:49:00";"141";"Sem vítima";"254,700";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"17/02/2026";"22:21:00";"145";"Com vítima";"245,500";"BR-381/MG";"Decrescente";"Atropelamento de pedestre";0;0;0;1;0;0;0;0;0;0;0;0;1;1;0
+"18/02/2026";"07:10:00";"21";"Sem vítima";"329,000";"BR-381/MG";"Decrescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/02/2026";"07:18:00";"25";"Sem vítima";"259,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+"18/02/2026";"08:31:00";"34";"Sem vítima";"287,000";"BR-381/MG";"Decrescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"18/02/2026";"08:33:00";"36";"Sem vítima";"174,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"18/02/2026";"14:23:00";"84";"Sem vítima";"350,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/02/2026";"00:00:00";"11";"Sem vítima";"449,000";"BR-381/MG";"Crescente";"Colisão traseira";2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"19/02/2026";"06:19:00";"14";"Sem vítima";"420,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"19/02/2026";"15:04:00";"83";"Com vítima";"253,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;0;1;0;0;0;0;0;0;0;0;1;0;0
+"19/02/2026";"21:55:00";"123";"Sem vítima";"246,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/02/2026";"00:00:00";"38";"Com vítima";"195,000";"BR-381/MG";"Decrescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"20/02/2026";"05:49:00";"13";"Com vítima";"438,000";"BR-381/MG";"Crescente";"Colisão frontal";1;0;1;0;0;0;0;0;0;0;0;0;1;0;3
+"20/02/2026";"05:58:00";"15";"Sem vítima";"322,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"20/02/2026";"18:57:00";"106";"Sem vítima";"429,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"21/02/2026";"04:37:00";"4";"Com vítima";"253,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"21/02/2026";"07:34:00";"16";"Sem vítima";"422,000";"BR-381/MG";"Decrescente";"Engavetamento";3;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/02/2026";"19:12:00";"89";"Com vítima";"258,000";"BR-381/MG";"Crescente";"Colisão frontal";0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+"21/02/2026";"21:22:00";"100";"Com vítima";"365,950";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;1;1;1;2
+"22/02/2026";"01:09:00";"4";"Sem vítima";"239,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"22/02/2026";"03:08:00";"5";"Sem vítima";"353,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"22/02/2026";"09:53:00";"39";"Com vítima";"379,000";"BR-381/MG";"Decrescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"22/02/2026";"20:05:00";"103";"Com vítima";"449,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"23/02/2026";"00:00:00";"105";"Sem vítima";"223,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/02/2026";"04:39:00";"3";"Sem vítima";"438,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"23/02/2026";"12:51:00";"99";"Sem vítima";"403,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"23/02/2026";"14:16:00";"107";"Com vítima";"215,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+"23/02/2026";"20:16:00";"135";"Sem vítima";"425,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"23/02/2026";"23:46:00";"150";"Com vítima";"276,000";"BR-381/MG";"Crescente";"Colisão frontal";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"24/02/2026";"00:06:00";"1";"Com vítima";"352,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"24/02/2026";"05:50:00";"16";"Sem vítima";"449,000";"BR-381/MG";"Crescente";"Tombamento";0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"24/02/2026";"06:47:00";"25";"Sem vítima";"343,000";"BR-381/MG";"Crescente";"Capotamento";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/02/2026";"07:28:00";"28";"Sem vítima";"426,000";"BR-381/MG";"Crescente";"Colisão transversal";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/02/2026";"07:40:00";"32";"Com vítima";"185,000";"BR-381/MG";"Crescente";"Acidentes de outra natureza";1;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"24/02/2026";"08:26:00";"44";"Sem vítima";"297,000";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"24/02/2026";"14:31:00";"76";"Sem vítima";"249,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"24/02/2026";"16:11:00";"81";"Com vítima";"436,000";"BR-381/MG";"Decrescente";"Acidentes de outra natureza";0;0;0;0;0;1;0;0;0;0;0;1;1;0;0
+"24/02/2026";"18:12:00";"92";"Sem vítima";"340,010";"BR-381/MG";"Decrescente";"Tombamento";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"25/02/2026";"00:00:00";"45";"Com vítima";"343,000";"BR-381/MG";"Crescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;1;0;0;0
+"25/02/2026";"00:00:00";"62";"Com vítima";"286,000";"BR-381/MG";"Crescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;0;2;0;0
+"26/02/2026";"08:13:00";"48";"Com vítima";"245,000";"BR-381/MG";"Decrescente";"Colisão frontal";2;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"26/02/2026";"16:06:00";"119";"Sem vítima";"408,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"26/02/2026";"16:38:00";"126";"Com vítima";"185,000";"BR-381/MG";"Crescente";"Saída de pista";1;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+"26/02/2026";"22:26:00";"156";"Sem vítima";"410,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"08:56:00";"63";"Sem vítima";"245,000";"BR-381/MG";"Crescente";"Saída de pista";0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"09:06:00";"66";"Sem vítima";"357,000";"BR-381/MG";"Decrescente";"Saída de pista";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"10:57:00";"116";"Sem vítima";"371,900";"BR-381/MG";"Decrescente";"Capotamento";1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"11:12:00";"120";"Sem vítima";"398,000";"BR-381/MG";"Decrescente";"Colisão traseira";0;0;2;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"11:26:00";"122";"Sem vítima";"400,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"11:39:00";"123";"Sem vítima";"207,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"12:32:00";"128";"Sem vítima";"380,000";"BR-381/MG";"Crescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"16:28:00";"158";"Com vítima";"424,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";1;0;1;0;0;0;0;0;0;0;0;2;0;0;0
+"27/02/2026";"17:49:00";"154";"Com vítima";"169,600";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+"27/02/2026";"21:36:00";"194";"Sem vítima";"177,000";"BR-381/MG";"Decrescente";"Choque";1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"27/02/2026";"23:37:00";"204";"Com vítima";"399,000";"BR-381/MG";"Crescente";"Colisão traseira";1;0;1;0;0;0;0;0;0;0;0;1;1;0;0
+"28/02/2026";"01:53:00";"6";"Com vítima";"383,000";"BR-381/MG";"Decrescente";"Colisão lateral no mesmo sentido";0;0;0;2;0;0;0;0;0;0;0;1;0;0;0
+"28/02/2026";"14:32:00";"84";"Com vítima";"437,000";"BR-381/MG";"Decrescente";"Colisão traseira";1;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"28/02/2026";"18:33:00";"105";"Com vítima";"247,500";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
+"28/02/2026";"20:19:00";"111";"Com vítima";"344,000";"BR-381/MG";"Decrescente";"Queda de moto";0;0;0;1;0;0;0;0;0;0;0;1;0;0;0
