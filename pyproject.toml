@@ -5,7 +5,8 @@ requires-python = ">=3.10"
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0",
-    "pyspark>=3.4,<4.0",
+    "duckdb>=0.10",
+    "pandas>=2.0",
 ]
 
 [tool.pytest.ini_options]
