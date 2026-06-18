@@ -1,6 +1,16 @@
 [project]
 name = "projeto-fabric-antt"
+version = "1.0.0"
+description = "Pipeline de dados de acidentes rodoviários (ANTT) com arquitetura medallion no Microsoft Fabric e simulação local via DuckDB."
+readme = "lakehouse_antt/README.md"
 requires-python = ">=3.10"
+authors = [
+    { name = "Adriano Silva", email = "adrianogvs.com@gmail.com" },
+]
+keywords = ["microsoft-fabric", "duckdb", "medallion", "antt", "data-engineering"]
+
+[project.urls]
+Repository = "https://github.com/Adrianogvs/projeto_fabric_antt"
 
 [project.optional-dependencies]
 dev = [
