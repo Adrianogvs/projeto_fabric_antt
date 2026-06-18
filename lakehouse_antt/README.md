@@ -1,4 +1,4 @@
-# Dados — Camada Bronze
+# Lakehouse ANTT — Camada Bronze
 
 ## Fonte
 
@@ -12,19 +12,20 @@ Os arquivos CSV são dados **públicos** disponibilizados pela ANTT (Agência Na
 ## Estrutura
 
 ```
-data/
-└── bronze/
-    └── acidentes/
-        ├── demostrativo_acidentes_aco.csv          (~1 MB)
-        ├── demostrativo_acidentes_af.csv           (~6 MB)
-        ├── demostrativo_acidentes_afd.csv          (~16 MB)
-        ├── demostrativo_acidentes_als.csv          (~17 MB)
-        └── ... (35 arquivos — 1 por concessionária)
+lakehouse_antt/
+└── Files/
+    └── bronze/
+        └── acidentes/
+            ├── demostrativo_acidentes_aco.csv          (~1 MB)
+            ├── demostrativo_acidentes_af.csv           (~6 MB)
+            ├── demostrativo_acidentes_afd.csv          (~16 MB)
+            ├── demostrativo_acidentes_als.csv          (~17 MB)
+            └── ... (35 arquivos — 1 por concessionária)
 ```
 
 ## Como usar no Microsoft Fabric
 
-Após clonar o repositório, faça upload de toda a pasta `data/bronze/acidentes/` para o caminho:
+Após clonar o repositório, faça upload da pasta `lakehouse_antt/Files/bronze/acidentes/` para o caminho correspondente no OneLake:
 
 ```
 lakehouse_antt
