@@ -17,13 +17,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: "17"
-
       - name: Install dependencies
-        run: pip install "pytest>=8.0" "pyspark>=3.4,<4.0"
+        run: pip install "pytest>=8.0" "duckdb>=0.10" "pandas>=2.0"
 
       - name: Run tests
         run: pytest tests/ -v
