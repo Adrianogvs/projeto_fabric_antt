@@ -1,4 +1,4 @@
-# Pipeline de Acidentes ANTT — Microsoft Fabric
+# Pipeline de Acidentes ANTT - Microsoft Fabric
 
 > Pipeline de dados end-to-end no **Microsoft Fabric** para análise de acidentes em rodovias federais concedidas.  
 > Arquitetura Medallion (Bronze → Silver → Gold) · Constellation Schema · Direct Lake · Power BI
