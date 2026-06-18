@@ -1,0 +1,13 @@
+[project]
+name = "projeto-fabric-antt"
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pyspark>=3.4,<4.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
