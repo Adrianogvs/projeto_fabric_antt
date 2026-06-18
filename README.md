@@ -25,22 +25,23 @@
    - [Silver Layer](#silver-layer)
    - [Gold Layer — Constellation Schema](#gold-layer--constellation-schema)
 5. [Pré-requisitos](#5-pré-requisitos)
-6. [Passo a Passo de Implantação](#6-passo-a-passo-de-implantação)
-   - [6.1 Criar o Workspace](#61-criar-o-workspace)
-   - [6.2 Organizar o Workspace em Pastas](#62-organizar-o-workspace-em-pastas)
-   - [6.3 Criar o Lakehouse](#63-criar-o-lakehouse)
-   - [6.4 Upload dos CSVs — Camada Bronze](#64-upload-dos-csvs--camada-bronze)
-   - [6.5 Importar os Notebooks](#65-importar-os-notebooks)
-   - [6.6 Criar o Data Pipeline](#66-criar-o-data-pipeline)
-   - [6.7 Executar o Pipeline](#67-executar-o-pipeline)
-   - [6.8 Verificar as Tabelas no Lakehouse](#68-verificar-as-tabelas-no-lakehouse)
-   - [6.9 Explorar pelo SQL Endpoint](#69-explorar-pelo-sql-endpoint)
-   - [6.10 Criar o Modelo Semântico](#610-criar-o-modelo-semântico)
-   - [6.11 Criar o Relatório no Power BI](#611-criar-o-relatório-no-power-bi)
-7. [Notebooks — Detalhes Técnicos](#7-notebooks--detalhes-técnicos)
-8. [Otimizações Spark](#8-otimizações-spark)
-9. [Medidas DAX](#9-medidas-dax)
-10. [Sugestão de Dashboard](#10-sugestão-de-dashboard)
+6. [Desenvolvimento Local (sem Microsoft Fabric)](#6-desenvolvimento-local-sem-microsoft-fabric)
+7. [Passo a Passo de Implantação no Fabric](#7-passo-a-passo-de-implantação-no-fabric)
+   - [7.1 Criar o Workspace](#71-criar-o-workspace)
+   - [7.2 Organizar o Workspace em Pastas](#72-organizar-o-workspace-em-pastas)
+   - [7.3 Criar o Lakehouse](#73-criar-o-lakehouse)
+   - [7.4 Upload dos CSVs — Camada Bronze](#74-upload-dos-csvs--camada-bronze)
+   - [7.5 Importar os Notebooks](#75-importar-os-notebooks)
+   - [7.6 Criar o Data Pipeline](#76-criar-o-data-pipeline)
+   - [7.7 Executar o Pipeline](#77-executar-o-pipeline)
+   - [7.8 Verificar as Tabelas no Lakehouse](#78-verificar-as-tabelas-no-lakehouse)
+   - [7.9 Explorar pelo SQL Endpoint](#79-explorar-pelo-sql-endpoint)
+   - [7.10 Criar o Modelo Semântico](#710-criar-o-modelo-semântico)
+   - [7.11 Criar o Relatório no Power BI](#711-criar-o-relatório-no-power-bi)
+8. [Notebooks — Detalhes Técnicos](#8-notebooks--detalhes-técnicos)
+9. [Otimizações Spark](#9-otimizações-spark)
+10. [Medidas DAX](#10-medidas-dax)
+11. [Sugestão de Dashboard](#11-sugestão-de-dashboard)
 
 ---
 
@@ -116,6 +117,9 @@ Os 3 notebooks de fato executam em **paralelo** após as dimensões — reduzind
 | Modelagem semântica | Modelo Semântico — modo Direct Lake |
 | Visualização | Power BI Desktop / Power BI no Fabric |
 | Fonte de dados | ANTT — Demonstrativo de Acidentes por Concessionária |
+| Pipeline local | DuckDB + pandas (sem Spark / sem Java) |
+| Testes | pytest + DuckDB — 47 testes, ~6s |
+| CI | GitHub Actions (Ubuntu, Python 3.11) |
 
 ---
 
@@ -124,7 +128,7 @@ Os 3 notebooks de fato executam em **paralelo** após as dimensões — reduzind
 ```
 09-Projeto-Fabric/
 │
-├── notebooks/
+├── notebooks/                                    ← Notebooks do Microsoft Fabric
 │   ├── 00_nb_config.ipynb                       ← logging centralizado (%run)
 │   ├── 00_nb_helpers.ipynb                      ← imports, constantes e funções (%run)
 │   ├── 01_nb_ingestao_bronze_acidentes.ipynb    ← Bronze: validação dos CSVs
@@ -134,15 +138,38 @@ Os 3 notebooks de fato executam em **paralelo** após as dimensões — reduzind
 │   ├── 05_nb_gold_fato_veiculos.ipynb           ← Gold: fato veículos (unpivot)
 │   └── 06_nb_gold_fato_vitimas.ipynb            ← Gold: fato vítimas  (unpivot)
 │
-├── lakehouse_antt/
-│   └── Files/
-│       └── bronze/
-│           └── acidentes/
-│               └── demostrativo_acidentes_*.csv  ← 35 CSVs por concessionária
+├── lakehouse_antt/                               ← Espelha a estrutura real do OneLake
+│   ├── Files/
+│   │   └── bronze/
+│   │       └── acidentes/
+│   │           └── demostrativo_acidentes_*.csv  ← 35 CSVs por concessionária
+│   └── Tables/
+│       └── dbo/
+│           ├── silver_acidentes/data.parquet
+│           ├── gold_dim_*/data.parquet           ← 6 dimensões
+│           └── gold_fato_*/data.parquet          ← 3 fatos
 │
-└── docs/
-    ├── demostrativo_acidentes_dicionario_dados.pdf
-    └── img/                                      ← screenshots do processo
+├── src/                                          ← Lógica extraída dos notebooks
+│   ├── helpers.py           ← PySpark: funções usadas nos notebooks Fabric
+│   ├── transformations.py   ← DuckDB/pandas: lógica testável localmente
+│   └── pipeline_local.py    ← Orquestrador local Bronze→Silver→Gold (~9s)
+│
+├── tests/                                        ← 47 testes pytest (sem Java)
+│   ├── conftest.py
+│   ├── test_mapear_concessionaria.py
+│   └── test_transformar.py
+│
+├── docs/
+│   ├── dicionario_dados/
+│   │   └── demostrativo_acidentes_dicionario_dados.pdf
+│   ├── carrossel_linkedin/
+│   └── img/                                      ← screenshots do processo
+│
+├── .github/
+│   └── workflows/
+│       └── tests.yml                             ← CI: pytest no GitHub Actions
+│
+└── pyproject.toml
 ```
 
 ---
@@ -307,9 +334,47 @@ erDiagram
 
 ---
 
-## 6. Passo a Passo de Implantação
+## 6. Desenvolvimento Local (sem Microsoft Fabric)
 
-### 6.1 Criar o Workspace
+É possível executar o pipeline completo e os testes sem ter acesso ao Fabric — apenas com Python, DuckDB e pandas.
+
+### Instalar dependências
+
+```bash
+pip install "pytest>=8.0" "duckdb>=0.10" "pandas>=2.0"
+# ou, com o pyproject.toml:
+pip install -e ".[dev]"
+```
+
+### Rodar os testes
+
+```bash
+pytest tests/ -v
+# 47 testes · ~6 segundos · sem Java, sem Spark
+```
+
+### Executar o pipeline local
+
+```bash
+py -m src.pipeline_local
+```
+
+O pipeline lê os 35 CSVs de `lakehouse_antt/Files/bronze/acidentes/`, aplica as mesmas transformações dos notebooks Fabric e salva 10 tabelas Parquet em `lakehouse_antt/Tables/dbo/` em ~9 segundos:
+
+| Tabela | Registros |
+|---|---|
+| `silver_acidentes` | ~1 008 632 |
+| `gold_fato_acidente` | ~1 008 632 |
+| `gold_fato_veiculo_acidente` | ~1 335 580 |
+| `gold_fato_vitima_acidente` | ~1 231 831 |
+| 6 dimensões | — |
+
+---
+
+## 7. Passo a Passo de Implantação no Fabric
+
+
+### 7.1 Criar o Workspace
 
 1. Acesse [app.fabric.microsoft.com](https://app.fabric.microsoft.com) e faça login com sua conta Microsoft
 2. No painel lateral esquerdo, clique em **Workspaces** → **+ Novo workspace**
@@ -324,7 +389,7 @@ erDiagram
 
 ---
 
-### 6.2 Organizar o Workspace em Pastas
+### 7.2 Organizar o Workspace em Pastas
 
 Antes de criar qualquer item, organize o workspace em pastas para facilitar a navegação. Clique em **Nova pasta** e crie as 4 pastas abaixo:
 
@@ -343,7 +408,7 @@ Antes de criar qualquer item, organize o workspace em pastas para facilitar a na
 
 ---
 
-### 6.3 Criar o Lakehouse
+### 7.3 Criar o Lakehouse
 
 1. Dentro do `workspace-antt`, clique em **+ Novo item**
 2. No modal, selecione **Lakehouse**
@@ -359,7 +424,7 @@ Antes de criar qualquer item, organize o workspace em pastas para facilitar a na
 
 ---
 
-### 6.4 Upload dos CSVs — Camada Bronze
+### 7.4 Upload dos CSVs — Camada Bronze
 
 1. No Gerenciador do Lakehouse, clique com o botão direito em **Files** → **Nova subpasta** → nomeie como `bronze`
 2. Dentro de `bronze`, crie outra subpasta chamada `acidentes`
@@ -378,7 +443,7 @@ Após o upload, o Gerenciador exibirá os 35 arquivos CSV:
 
 ---
 
-### 6.5 Importar os Notebooks
+### 7.5 Importar os Notebooks
 
 1. No `workspace-antt`, clique em **Importar** → **Notebook** → **Do computador**
 2. Selecione e importe os 8 arquivos `.ipynb` da pasta `notebooks/` deste repositório
@@ -407,7 +472,7 @@ LOG_LEVEL:     str = "INFO"
 
 ---
 
-### 6.6 Criar o Data Pipeline
+### 7.6 Criar o Data Pipeline
 
 1. No `workspace-antt`, clique em **+ Novo item** → **Pipeline de dados**
 2. Nomeie como **`pl_acidentes_antt`** e mova para a pasta **Pipeline**
@@ -437,7 +502,7 @@ O canvas ficará assim:
 
 ---
 
-### 6.7 Executar o Pipeline
+### 7.7 Executar o Pipeline
 
 1. Clique em **Executar** no topo do canvas
 2. Aguarde ~7 minutos até todas as atividades concluírem
@@ -457,7 +522,7 @@ O canvas ficará assim:
 
 ---
 
-### 6.8 Verificar as Tabelas no Lakehouse
+### 7.8 Verificar as Tabelas no Lakehouse
 
 Após o pipeline concluir, abra o `lakehouse_antt`. No Gerenciador em **Tables → dbo** você verá as 9 tabelas Delta criadas:
 
@@ -484,7 +549,7 @@ Clique em qualquer tabela com o botão direito → **Selecionar dados** para ins
 
 ---
 
-### 6.9 Explorar pelo SQL Endpoint
+### 7.9 Explorar pelo SQL Endpoint
 
 O Fabric cria automaticamente um **SQL Endpoint** e um **Eventhouse** associados ao Lakehouse, permitindo consultas SQL diretas sem iniciar sessão Spark:
 
@@ -505,7 +570,7 @@ Você pode usar o SQL Endpoint para:
 
 ---
 
-### 6.10 Criar o Modelo Semântico
+### 7.10 Criar o Modelo Semântico
 
 O Modelo Semântico conecta as tabelas Gold ao Power BI via **Direct Lake** — leitura direta dos arquivos Parquet do OneLake, sem importação de dados e sem cache separado.
 
@@ -555,9 +620,9 @@ Na **Exibição de modelo**, arraste as colunas para criar os 12 relacionamentos
 
 ---
 
-### 6.11 Criar o Relatório no Power BI
+### 7.11 Criar o Relatório no Power BI
 
-Com o Modelo Semântico configurado, crie as medidas DAX (seção [9. Medidas DAX](#9-medidas-dax)) e construa os visuais:
+Com o Modelo Semântico configurado, crie as medidas DAX (seção [10. Medidas DAX](#10-medidas-dax)) e construa os visuais:
 
 **Em construção no Power BI Desktop:**
 
@@ -573,7 +638,7 @@ Com o Modelo Semântico configurado, crie as medidas DAX (seção [9. Medidas DA
 
 ---
 
-## 7. Notebooks — Detalhes Técnicos
+## 8. Notebooks — Detalhes Técnicos
 
 ### `00_nb_config` — Logging Centralizado
 
@@ -683,7 +748,7 @@ Unpivot de **5 colunas de vítima** para `(tipo_vitima, quantidade)` — mesma l
 
 ---
 
-## 8. Otimizações Spark
+## 9. Otimizações Spark
 
 Aplicadas nos 4 notebooks Gold (03, 04, 05, 06):
 
@@ -724,7 +789,7 @@ spark.sql("OPTIMIZE gold_fato_vitima_acidente ZORDER BY (id_data, id_concessiona
 
 ---
 
-## 9. Medidas DAX
+## 10. Medidas DAX
 
 Crie as medidas abaixo na tabela `gold_fato_acidente` do Modelo Semântico.  
 No Power BI Desktop: selecione a tabela → **Nova medida** → cole a fórmula DAX.
@@ -764,7 +829,7 @@ SUM( gold_fato_vitima_acidente[quantidade] )
 
 ---
 
-## 10. Sugestão de Dashboard
+## 11. Sugestão de Dashboard
 
 ### Página 1 — Visão Geral
 
