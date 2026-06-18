@@ -16,6 +16,28 @@
 
 ---
 
+## Início Rápido
+
+```bash
+# 1. Clonar o repositório
+git clone https://github.com/Adrianogvs/projeto_fabric_antt.git
+cd projeto_fabric_antt
+
+# 2. Instalar dependências Python
+pip install -e ".[dev]"
+
+# 3. Rodar os testes (47 testes, ~6s, sem Java nem Spark)
+pytest tests/ -v
+
+# 4. Executar o pipeline local Bronze → Silver → Gold (~9s)
+py -m src.pipeline_local
+```
+
+As tabelas Parquet são salvas em `lakehouse_antt/Tables/dbo/`.  
+Para implantar no **Microsoft Fabric**, siga o [Passo a Passo de Implantação](#7-passo-a-passo-de-implantação-no-fabric).
+
+---
+
 ## Sumário
 
 1. [Visão Geral da Arquitetura](#1-visão-geral-da-arquitetura)
